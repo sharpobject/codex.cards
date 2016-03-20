@@ -1,6 +1,7 @@
 [
     {
         "filename": "demonology_spell_a.jpg",
+        "sirlins_filename": "0010_soul_stone.jpg",
         "name": "Soul Stone",
         "starting_zone": "codex",
         "color": "Black",
@@ -15,6 +16,7 @@
     },
     {
         "filename": "demonology_spell_b.jpg",
+        "sirlins_filename": "0011_dark_pact.jpg",
         "name": "Dark Pact",
         "starting_zone": "codex",
         "color": "Black",
@@ -27,6 +29,7 @@
     },
     {
         "filename": "demonology_spell_c.jpg",
+        "sirlins_filename": "0012_shadow_blade.jpg",
         "name": "Shadow Blade",
         "starting_zone": "codex",
         "color": "Black",
@@ -41,6 +44,7 @@
     },
     {
         "filename": "demonology_spell_ult.jpg",
+        "sirlins_filename": "0013_metamorphosis.jpg",
         "name": "Metamorphosis",
         "starting_zone": "codex",
         "color": "Black",
@@ -55,6 +59,7 @@
     },
     {
         "filename": "demonology_tech1_a.jpg",
+        "sirlins_filename": "0022_gargoyle.jpg",
         "name": "Gargoyle",
         "starting_zone": "codex",
         "color": "Black",
@@ -73,6 +78,7 @@
     },
     {
         "filename": "demonology_tech1_b.jpg",
+        "sirlins_filename": "0023_twilight_baron.jpg",
         "name": "Twilight Baron",
         "starting_zone": "codex",
         "color": "Black",
@@ -90,6 +96,7 @@
     },
     {
         "filename": "demonology_tech2_a.jpg",
+        "sirlins_filename": "0028_voidblocker.jpg",
         "name": "Voidblocker",
         "starting_zone": "codex",
         "color": "Black",
@@ -106,6 +113,7 @@
     },
     {
         "filename": "demonology_tech2_b.jpg",
+        "sirlins_filename": "0029_blackhand_dozer.jpg",
         "name": "Blackhand Dozer",
         "starting_zone": "codex",
         "color": "Black",
@@ -124,6 +132,7 @@
     },
     {
         "filename": "demonology_tech2_c.jpg",
+        "sirlins_filename": "0030_banefire_golem.jpg",
         "name": "Banefire Golem",
         "starting_zone": "codex",
         "color": "Black",
@@ -140,6 +149,7 @@
     },
     {
         "filename": "demonology_tech2_d.jpg",
+        "sirlins_filename": "0031_terras_q.jpg",
         "name": "Terras Q, the Shackled",
         "starting_zone": "codex",
         "color": "Black",
@@ -157,6 +167,7 @@
     },
     {
         "filename": "demonology_tech2_e.jpg",
+        "sirlins_filename": "0032_shrine_of_forbidden_knowledge.jpg",
         "name": "Shrine of Forbidden Knowledge",
         "starting_zone": "codex",
         "color": "Black",
@@ -173,6 +184,7 @@
     },
     {
         "filename": "demonology_tech3.jpg",
+        "sirlins_filename": "0043_zarramonde.jpg",
         "name": "Zarramonde, the Obliterator",
         "starting_zone": "codex",
         "color": "Black",
@@ -190,6 +202,7 @@
     },
     {
         "filename": "disease_spell_a.jpg",
+        "sirlins_filename": "0014_sickness.jpg",
         "name": "Sickness",
         "starting_zone": "codex",
         "color": "Black",
@@ -203,6 +216,7 @@
     },
     {
         "filename": "disease_spell_b.jpg",
+        "sirlins_filename": "0015_spreading_plague.jpg",
         "name": "Spreading Plague",
         "starting_zone": "codex",
         "color": "Black",
@@ -215,6 +229,7 @@
     },
     {
         "filename": "disease_spell_c.jpg",
+        "sirlins_filename": "0016_carrion_curse.jpg",
         "name": "Carrion Curse",
         "starting_zone": "codex",
         "color": "Black",
@@ -228,6 +243,7 @@
     },
     {
         "filename": "disease_spell_ult.jpg",
+        "sirlins_filename": "0017_death_and_decay.jpg",
         "name": "Death and Decay",
         "starting_zone": "codex",
         "color": "Black",
@@ -241,6 +257,7 @@
     },
     {
         "filename": "disease_tech1_a.jpg",
+        "sirlins_filename": "0026_crypt_crawler.jpg",
         "name": "Hooded Executioner",
         "starting_zone": "codex",
         "color": "Black",
@@ -258,6 +275,7 @@
     },
     {
         "filename": "disease_tech1_b.jpg",
+        "sirlins_filename": "0027_plague_spitter.jpg",
         "name": "Bone Collector",
         "starting_zone": "codex",
         "color": "Black",
@@ -274,6 +292,7 @@
     },
     {
         "filename": "disease_tech2_a.jpg",
+        "sirlins_filename": "0033_gorgon.jpg",
         "name": "Gorgon",
         "starting_zone": "codex",
         "color": "Black",
@@ -291,6 +310,7 @@
     },
     {
         "filename": "disease_tech2_b.jpg",
+        "sirlins_filename": "0034_cursed_ghoul.jpg",
         "name": "Cursed Ghoul",
         "starting_zone": "codex",
         "color": "Black",
@@ -308,6 +328,7 @@
     },
     {
         "filename": "disease_tech2_c.jpg",
+        "sirlins_filename": "0035_cursed_crow.jpg",
         "name": "Cursed Crow",
         "starting_zone": "codex",
         "color": "Black",
@@ -325,6 +346,7 @@
     },
     {
         "filename": "disease_tech2_d.jpg",
+        "sirlins_filename": "0036_abomination.jpg",
         "name": "Abomination",
         "starting_zone": "codex",
         "color": "Black",
@@ -341,6 +363,7 @@
     },
     {
         "filename": "disease_tech2_e.jpg",
+        "sirlins_filename": "0037_plague_lab.jpg",
         "name": "Plague Lab",
         "starting_zone": "codex",
         "color": "Black",
@@ -356,6 +379,7 @@
     },
     {
         "filename": "disease_tech3.jpg",
+        "sirlins_filename": "0044_plague_lord.jpg",
         "name": "Plague Lord",
         "starting_zone": "codex",
         "color": "Black",
@@ -374,6 +398,7 @@
     },
     {
         "filename": "necromancy_spell_a.jpg",
+        "sirlins_filename": "0018_nether_drain.jpg",
         "name": "Nether Drain",
         "starting_zone": "codex",
         "color": "Black",
@@ -387,6 +412,7 @@
     },
     {
         "filename": "necromancy_spell_b.jpg",
+        "sirlins_filename": "0019_lichs_bargain.jpg",
         "name": "Lich's Bargain",
         "starting_zone": "codex",
         "color": "Black",
@@ -401,6 +427,7 @@
     },
     {
         "filename": "necromancy_spell_c.jpg",
+        "sirlins_filename": "0020_doom_grasp.jpg",
         "name": "Doom Grasp",
         "starting_zone": "codex",
         "color": "Black",
@@ -414,6 +441,7 @@
     },
     {
         "filename": "necromancy_spell_ult.jpg",
+        "sirlins_filename": "0021_death_rites.jpg",
         "name": "Death Rites",
         "starting_zone": "codex",
         "color": "Black",
@@ -426,6 +454,7 @@
     },
     {
         "filename": "necromancy_tech1_a.jpg",
+        "sirlins_filename": "0024_hooded_executioner.jpg",
         "name": "Crypt Crawler",
         "starting_zone": "codex",
         "color": "Black",
@@ -443,6 +472,7 @@
     },
     {
         "filename": "necromancy_tech1_b.jpg",
+        "sirlins_filename": "0025_bone_collector.jpg",
         "name": "Plague Spitter",
         "starting_zone": "codex",
         "color": "Black",
@@ -460,6 +490,7 @@
     },
     {
         "filename": "necromancy_tech2_a.jpg",
+        "sirlins_filename": "0038_blackhand_resurrector.jpg",
         "name": "Blackhand Resurrector",
         "starting_zone": "codex",
         "color": "Black",
@@ -476,6 +507,7 @@
     },
     {
         "filename": "necromancy_tech2_b.jpg",
+        "sirlins_filename": "0039_skeletal_lord.jpg",
         "name": "Skeletal Lord",
         "starting_zone": "codex",
         "color": "Black",
@@ -493,6 +525,7 @@
     },
     {
         "filename": "necromancy_tech2_c.jpg",
+        "sirlins_filename": "0040_corpse_catapult.jpg",
         "name": "Corpse Catapult",
         "starting_zone": "codex",
         "color": "Black",
@@ -510,6 +543,7 @@
     },
     {
         "filename": "necromancy_tech2_d.jpg",
+        "sirlins_filename": "0041_wight.jpg",
         "name": "Wight",
         "starting_zone": "codex",
         "color": "Black",
@@ -527,6 +561,7 @@
     },
     {
         "filename": "necromancy_tech2_e.jpg",
+        "sirlins_filename": "0042_necromancer.jpg",
         "name": "Necromancer",
         "starting_zone": "codex",
         "color": "Black",
@@ -544,6 +579,7 @@
     },
     {
         "filename": "necromancy_tech3.jpg",
+        "sirlins_filename": "0045_lord_of_shadows.jpg",
         "name": "Lord of Shadows",
         "starting_zone": "codex",
         "color": "Black",
@@ -580,6 +616,7 @@
     },
     {
         "filename": "black_card_a.jpg",
+        "sirlins_filename": "0000_pestering_haunt.jpg",
         "name": "Pestering Haunt",
         "starting_zone": "deck",
         "color": "Black",
@@ -597,6 +634,7 @@
     },
     {
         "filename": "black_card_b.jpg",
+        "sirlins_filename": "0001_skeleton_javelineer.jpg",
         "name": "Skeleton Javelineer",
         "starting_zone": "deck",
         "color": "Black",
@@ -613,6 +651,7 @@
     },
     {
         "filename": "black_card_c.jpg",
+        "sirlins_filename": "0002_poisonblade_rogue.jpg",
         "name": "Poisonblade Rogue",
         "starting_zone": "deck",
         "color": "Black",
@@ -628,6 +667,7 @@
     },
     {
         "filename": "black_card_d.jpg",
+        "sirlins_filename": "0003_theiving_imp.jpg",
         "name": "Thieving Imp",
         "starting_zone": "deck",
         "color": "Black",
@@ -644,6 +684,7 @@
     },
     {
         "filename": "black_card_e.jpg",
+        "sirlins_filename": "0004_jandra.jpg",
         "name": "Jandra, the Negator",
         "starting_zone": "deck",
         "color": "Black",
@@ -660,6 +701,7 @@
     },
     {
         "filename": "black_card_f.jpg",
+        "sirlins_filename": "0005_graveyard.jpg",
         "name": "Graveyard",
         "starting_zone": "deck",
         "color": "Black",
@@ -674,6 +716,7 @@
     },
     {
         "filename": "black_card_g.jpg",
+        "sirlins_filename": "0006_skeletal_archery.jpg",
         "name": "Skeletal Archery",
         "starting_zone": "deck",
         "color": "Black",
@@ -686,6 +729,7 @@
     },
     {
         "filename": "black_card_h.jpg",
+        "sirlins_filename": "0007_deteriorate.jpg",
         "name": "Deteriorate",
         "starting_zone": "deck",
         "color": "Black",
@@ -698,6 +742,7 @@
     },
     {
         "filename": "black_card_i.jpg",
+        "sirlins_filename": "0008_summon_skeletons.jpg",
         "name": "Summon Skeletons",
         "starting_zone": "deck",
         "color": "Black",
@@ -710,6 +755,7 @@
     },
     {
         "filename": "black_card_j.jpg",
+        "sirlins_filename": "0009_sacrifice_the_weak.jpg",
         "name": "Sacrifice the Weak",
         "starting_zone": "deck",
         "color": "Black",
@@ -720,6 +766,7 @@
         "sha1": "668e64b4ddebf8357c4fb4570066667eb5df8af5"
     },
     {
+        "filename": "warlock_token.jpg",
         "name": "Warlock",
         "starting_zone": "trash",
         "color": "Black",
@@ -732,6 +779,7 @@
         "HP": 1
     },
     {
+        "filename": "skeleton_token.jpg",
         "name": "Skeleton",
         "starting_zone": "trash",
         "color": "Black",
@@ -744,6 +792,7 @@
         "HP": 1
     },
     {
+        "filename": "zombie_token.jpg",
         "name": "Zombie",
         "starting_zone": "trash",
         "color": "Black",
@@ -756,6 +805,7 @@
         "HP": 2
     },
     {
+        "filename": "horror_token.jpg",
         "name": "Horror",
         "starting_zone": "trash",
         "color": "Black",

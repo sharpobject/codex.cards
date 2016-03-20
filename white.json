@@ -1,6 +1,7 @@
 [
     {
         "filename": "discipline_spell_a.jpg",
+        "sirlins_filename": "0010_martial_mastery.jpg",
         "name": "Martial Mastery",
         "starting_zone": "codex",
         "color": "White",
@@ -13,6 +14,7 @@
     },
     {
         "filename": "discipline_spell_b.jpg",
+        "sirlins_filename": "0011_versatile_style.jpg",
         "name": "Versatile Style",
         "starting_zone": "codex",
         "color": "White",
@@ -26,6 +28,7 @@
     },
     {
         "filename": "discipline_spell_c.jpg",
+        "sirlins_filename": "0012_reversal.jpg",
         "name": "Reversal",
         "starting_zone": "codex",
         "color": "White",
@@ -39,6 +42,7 @@
     },
     {
         "filename": "discipline_spell_ult.jpg",
+        "sirlins_filename": "0013_true_power_of_storms.jpg",
         "name": "True Power of Storms",
         "starting_zone": "codex",
         "color": "White",
@@ -52,6 +56,7 @@
     },
     {
         "filename": "discipline_tech1_a.jpg",
+        "sirlins_filename": "0022_rambasa_twin.jpg",
         "name": "Rambasa Twin",
         "starting_zone": "codex",
         "color": "White",
@@ -69,6 +74,7 @@
     },
     {
         "filename": "discipline_tech1_b.jpg",
+        "sirlins_filename": "0023_sparring_partner.jpg",
         "name": "Sparring Partner",
         "starting_zone": "codex",
         "color": "White",
@@ -86,6 +92,7 @@
     },
     {
         "filename": "discipline_tech2_a.jpg",
+        "sirlins_filename": "0028_young_lightning_dragon.jpg",
         "name": "Young Lightning Dragon",
         "starting_zone": "codex",
         "color": "White",
@@ -103,6 +110,7 @@
     },
     {
         "filename": "discipline_tech2_b.jpg",
+        "sirlins_filename": "0029_focus_master.jpg",
         "name": "Focus Master",
         "starting_zone": "codex",
         "color": "White",
@@ -120,6 +128,7 @@
     },
     {
         "filename": "discipline_tech2_c.jpg",
+        "sirlins_filename": "0030_vigor_adept.jpg",
         "name": "Vigor Adept",
         "starting_zone": "codex",
         "color": "White",
@@ -137,6 +146,7 @@
     },
     {
         "filename": "discipline_tech2_d.jpg",
+        "sirlins_filename": "0031_mind_parry_monk.jpg",
         "name": "Mind-Parry Monk",
         "starting_zone": "codex",
         "color": "White",
@@ -153,6 +163,7 @@
     },
     {
         "filename": "discipline_tech2_e.jpg",
+        "sirlins_filename": "0032_training_grounds.jpg",
         "name": "Training Grounds",
         "starting_zone": "codex",
         "color": "White",
@@ -168,6 +179,7 @@
     },
     {
         "filename": "discipline_tech3.jpg",
+        "sirlins_filename": "0043_heros_monument.jpg",
         "name": "Hero's Monument",
         "starting_zone": "codex",
         "color": "White",
@@ -185,6 +197,7 @@
     },
     {
         "filename": "ninjutsu_spell_a.jpg",
+        "sirlins_filename": "0014_hidden_ninja.jpg",
         "name": "Hidden Ninja",
         "starting_zone": "codex",
         "color": "White",
@@ -199,6 +212,7 @@
     },
     {
         "filename": "ninjutsu_spell_b.jpg",
+        "sirlins_filename": "0015_speed_of_the_fox.jpg",
         "name": "Speed of the Fox",
         "starting_zone": "codex",
         "color": "White",
@@ -212,6 +226,7 @@
     },
     {
         "filename": "ninjutsu_spell_c.jpg",
+        "sirlins_filename": "0016_shuriken_hail.jpg",
         "name": "Shuriken Hail",
         "starting_zone": "codex",
         "color": "White",
@@ -224,6 +239,7 @@
     },
     {
         "filename": "ninjutsu_spell_ult.jpg",
+        "sirlins_filename": "0017_foxs_den_students.jpg",
         "name": "Fox's Den Students",
         "starting_zone": "codex",
         "color": "White",
@@ -237,6 +253,7 @@
     },
     {
         "filename": "ninjutsu_tech1_a.jpg",
+        "sirlins_filename": "0024_inverse_power_ninja.jpg",
         "name": "Inverse Power Ninja",
         "starting_zone": "codex",
         "color": "White",
@@ -253,6 +270,7 @@
     },
     {
         "filename": "ninjutsu_tech1_b.jpg",
+        "sirlins_filename": "0025_fuzz_cuddles.jpg",
         "name": "Fuzz Cuddles",
         "starting_zone": "codex",
         "color": "White",
@@ -269,6 +287,7 @@
     },
     {
         "filename": "ninjutsu_tech2_a.jpg",
+        "sirlins_filename": "0033_flying_fox.jpg",
         "name": "Flying Fox",
         "starting_zone": "codex",
         "color": "White",
@@ -285,6 +304,7 @@
     },
     {
         "filename": "ninjutsu_tech2_b.jpg",
+        "sirlins_filename": "0034_glorious_ninja.jpg",
         "name": "Glorious Ninja",
         "starting_zone": "codex",
         "color": "White",
@@ -302,6 +322,7 @@
     },
     {
         "filename": "ninjutsu_tech2_c.jpg",
+        "sirlins_filename": "0035_porcupine.jpg",
         "name": "Porcupine",
         "starting_zone": "codex",
         "color": "White",
@@ -318,6 +339,7 @@
     },
     {
         "filename": "ninjutsu_tech2_d.jpg",
+        "sirlins_filename": "0036_masked_raccoon.jpg",
         "name": "Masked Raccoon",
         "starting_zone": "codex",
         "color": "White",
@@ -335,6 +357,7 @@
     },
     {
         "filename": "ninjutsu_tech2_e.jpg",
+        "sirlins_filename": "0037_foxs_den_school.jpg",
         "name": "Fox's Den School",
         "starting_zone": "codex",
         "color": "White",
@@ -351,6 +374,7 @@
     },
     {
         "filename": "ninjutsu_tech3.jpg",
+        "sirlins_filename": "0044_jade_fox.jpg",
         "name": "Jade Fox, Den's Headmistress",
         "starting_zone": "codex",
         "color": "White",
@@ -368,6 +392,7 @@
     },
     {
         "filename": "strength_spell_a.jpg",
+        "sirlins_filename": "0018_birds_nest.jpg",
         "name": "Bird's Nest",
         "starting_zone": "codex",
         "color": "White",
@@ -383,6 +408,7 @@
     },
     {
         "filename": "strength_spell_b.jpg",
+        "sirlins_filename": "0019_entangling_vines.jpg",
         "name": "Entangling Vines",
         "starting_zone": "codex",
         "color": "White",
@@ -397,6 +423,7 @@
     },
     {
         "filename": "strength_spell_c.jpg",
+        "sirlins_filename": "0020_thunderclap.jpg",
         "name": "Thunderclap",
         "starting_zone": "codex",
         "color": "White",
@@ -410,6 +437,7 @@
     },
     {
         "filename": "strength_spell_ult.jpg",
+        "sirlins_filename": "0021_earthquake.jpg",
         "name": "Earthquake",
         "starting_zone": "codex",
         "color": "White",
@@ -423,6 +451,7 @@
     },
     {
         "filename": "strength_tech1_a.jpg",
+        "sirlins_filename": "0026_mythmaking.jpg",
         "name": "Mythmaking",
         "starting_zone": "codex",
         "color": "White",
@@ -437,6 +466,7 @@
     },
     {
         "filename": "strength_tech1_b.jpg",
+        "sirlins_filename": "0027_ardras_boulder.jpg",
         "name": "Ardra's Boulder",
         "starting_zone": "codex",
         "color": "White",
@@ -452,6 +482,7 @@
     },
     {
         "filename": "strength_tech2_a.jpg",
+        "sirlins_filename": "0038_doubling_barbarbarian.jpg",
         "name": "Doubling Barbarbarian",
         "starting_zone": "codex",
         "color": "White",
@@ -469,6 +500,7 @@
     },
     {
         "filename": "strength_tech2_b.jpg",
+        "sirlins_filename": "0039_whitestar_grappler.jpg",
         "name": "Whitestar Grappler",
         "starting_zone": "codex",
         "color": "White",
@@ -485,6 +517,7 @@
     },
     {
         "filename": "strength_tech2_c.jpg",
+        "sirlins_filename": "0040_colossus.jpg",
         "name": "Colossus",
         "starting_zone": "codex",
         "color": "White",
@@ -501,6 +534,7 @@
     },
     {
         "filename": "strength_tech2_d.jpg",
+        "sirlins_filename": "0041_jefferson_degrey.jpg",
         "name": "Jefferson DeGrey, Ghostly Diplomat",
         "starting_zone": "codex",
         "color": "White",
@@ -517,6 +551,7 @@
     },
     {
         "filename": "strength_tech2_e.jpg",
+        "sirlins_filename": "0042_morningstar_pass.jpg",
         "name": "Morningstar Pass",
         "starting_zone": "codex",
         "color": "White",
@@ -532,6 +567,7 @@
     },
     {
         "filename": "strength_tech3.jpg",
+        "sirlins_filename": "0045_oathkeeper_of_kor_mountain.jpg",
         "name": "Oathkeeper of Kor Mountain",
         "starting_zone": "codex",
         "color": "White",
@@ -570,6 +606,7 @@
     },
     {
         "filename": "white_card_a.jpg",
+        "sirlins_filename": "0000_smoker.jpg",
         "name": "Smoker",
         "starting_zone": "deck",
         "color": "White",
@@ -586,6 +623,7 @@
     },
     {
         "filename": "white_card_b.jpg",
+        "sirlins_filename": "0001_savior_monk.jpg",
         "name": "Savior Monk",
         "starting_zone": "deck",
         "color": "White",
@@ -601,6 +639,7 @@
     },
     {
         "filename": "white_card_c.jpg",
+        "sirlins_filename": "0002_fox_viper.jpg",
         "name": "Fox Viper",
         "starting_zone": "deck",
         "color": "White",
@@ -616,6 +655,7 @@
     },
     {
         "filename": "white_card_d.jpg",
+        "sirlins_filename": "0003_aged_sensei.jpg",
         "name": "Aged Sensei",
         "starting_zone": "deck",
         "color": "White",
@@ -631,6 +671,7 @@
     },
     {
         "filename": "white_card_e.jpg",
+        "sirlins_filename": "0004_morningstar_flagbearer.jpg",
         "name": "Morningstar Flagbearer",
         "starting_zone": "deck",
         "color": "White",
@@ -646,6 +687,7 @@
     },
     {
         "filename": "white_card_f.jpg",
+        "sirlins_filename": "0005_fox_primus.jpg",
         "name": "Fox Primus",
         "starting_zone": "deck",
         "color": "White",
@@ -662,6 +704,7 @@
     },
     {
         "filename": "white_card_g.jpg",
+        "sirlins_filename": "0006_safe_attacking.jpg",
         "name": "Safe Attacking",
         "starting_zone": "deck",
         "color": "White",
@@ -674,6 +717,7 @@
     },
     {
         "filename": "white_card_h.jpg",
+        "sirlins_filename": "0007_senseis_advice.jpg",
         "name": "Sensei's Advice",
         "starting_zone": "deck",
         "color": "White",
@@ -686,6 +730,7 @@
     },
     {
         "filename": "white_card_i.jpg",
+        "sirlins_filename": "0008_grappling_hook.jpg",
         "name": "Grappling Hook",
         "starting_zone": "deck",
         "color": "White",
@@ -697,6 +742,7 @@
     },
     {
         "filename": "white_card_j.jpg",
+        "sirlins_filename": "0009_snapback.jpg",
         "name": "Snapback",
         "starting_zone": "deck",
         "color": "White",
@@ -707,6 +753,7 @@
         "sha1": "67c338d840cce270a80f064ee767e686aa28c7a9"
     },
     {
+        "filename": "daigo_token.jpg",
         "name": "Daigo Stormborne",
         "starting_zone": "trash",
         "color": "White",
@@ -720,6 +767,7 @@
         "rules_text_1": "Indestructible, untargetable, unstoppable, can't patrol."
     },
     {
+        "filename": "ninja_token.jpg",
         "name": "Ninja",
         "starting_zone": "trash",
         "color": "White",
@@ -732,6 +780,7 @@
         "HP": 1
     },
     {
+        "filename": "bird_token.jpg",
         "name": "Bird",
         "starting_zone": "trash",
         "color": "White",

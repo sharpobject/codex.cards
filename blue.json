@@ -1,6 +1,7 @@
 [
     {
         "filename": "law_spell_a.jpg",
+        "sirlins_filename": "0010_jurisdiction.jpg",
         "name": "Injunction",
         "starting_zone": "codex",
         "color": "Blue",
@@ -14,6 +15,7 @@
     },
     {
         "filename": "law_spell_b.jpg",
+        "sirlins_filename": "0011_injunction.jpg",
         "name": "Community Service",
         "starting_zone": "codex",
         "color": "Blue",
@@ -27,6 +29,7 @@
     },
     {
         "filename": "law_spell_c.jpg",
+        "sirlins_filename": "0012_community_service.jpg",
         "name": "Jurisdiction",
         "starting_zone": "codex",
         "color": "Blue",
@@ -39,6 +42,7 @@
     },
     {
         "filename": "law_spell_ult.jpg",
+        "sirlins_filename": "0013_judgment_day.jpg",
         "name": "Judgment Day",
         "starting_zone": "codex",
         "color": "Blue",
@@ -53,6 +57,7 @@
     },
     {
         "filename": "law_tech1_a.jpg",
+        "sirlins_filename": "0022_tax_collector.jpg",
         "name": "Tax Collector",
         "starting_zone": "codex",
         "color": "Blue",
@@ -69,6 +74,7 @@
     },
     {
         "filename": "law_tech1_b.jpg",
+        "sirlins_filename": "0023_scribe.jpg",
         "name": "Scribe",
         "starting_zone": "codex",
         "color": "Blue",
@@ -85,6 +91,7 @@
     },
     {
         "filename": "law_tech2_a.jpg",
+        "sirlins_filename": "0033_guardian_of_the_gates.jpg",
         "name": "Drill Sergeant",
         "starting_zone": "codex",
         "color": "Blue",
@@ -102,6 +109,7 @@
     },
     {
         "filename": "law_tech2_b.jpg",
+        "sirlins_filename": "0034_insurance_agent.jpg",
         "name": "Flagstone Spy",
         "starting_zone": "codex",
         "color": "Blue",
@@ -119,6 +127,7 @@
     },
     {
         "filename": "law_tech2_c.jpg",
+        "sirlins_filename": "0035_justice_juggernaut.jpg",
         "name": "Debilitator Alpha",
         "starting_zone": "codex",
         "color": "Blue",
@@ -135,6 +144,7 @@
     },
     {
         "filename": "law_tech2_d.jpg",
+        "sirlins_filename": "0036_arresting_constable.jpg",
         "name": "Air Hammer",
         "starting_zone": "codex",
         "color": "Blue",
@@ -152,6 +162,7 @@
     },
     {
         "filename": "law_tech2_e.jpg",
+        "sirlins_filename": "0037_censorship_council.jpg",
         "name": "Flagstone Garrison",
         "starting_zone": "codex",
         "color": "Blue",
@@ -166,6 +177,7 @@
     },
     {
         "filename": "law_tech3.jpg",
+        "sirlins_filename": "0043_lawbringer_gryphon.jpg",
         "name": "Lawbringer Gryphon",
         "starting_zone": "codex",
         "color": "Blue",
@@ -184,6 +196,7 @@
     },
     {
         "filename": "peace_spell_a.jpg",
+        "sirlins_filename": "0014_boot_camp.jpg",
         "name": "Boot Camp",
         "starting_zone": "codex",
         "color": "Blue",
@@ -198,6 +211,7 @@
     },
     {
         "filename": "peace_spell_b.jpg",
+        "sirlins_filename": "0015_elite_training.jpg",
         "name": "Elite Training",
         "starting_zone": "codex",
         "color": "Blue",
@@ -211,6 +225,7 @@
     },
     {
         "filename": "peace_spell_c.jpg",
+        "sirlins_filename": "0016_generals_hammer.jpg",
         "name": "General's Hammer",
         "starting_zone": "codex",
         "color": "Blue",
@@ -223,6 +238,7 @@
     },
     {
         "filename": "peace_spell_ult.jpg",
+        "sirlins_filename": "0017_the_art_of_war.jpg",
         "name": "The Art of War",
         "starting_zone": "codex",
         "color": "Blue",
@@ -236,6 +252,7 @@
     },
     {
         "filename": "peace_tech1_a.jpg",
+        "sirlins_filename": "0024_overeager_cadet.jpg",
         "name": "Overeager Cadet",
         "starting_zone": "codex",
         "color": "Blue",
@@ -251,6 +268,7 @@
     },
     {
         "filename": "peace_tech1_b.jpg",
+        "sirlins_filename": "0025_brave_knight.jpg",
         "name": "Brave Knight",
         "starting_zone": "codex",
         "color": "Blue",
@@ -268,6 +286,7 @@
     },
     {
         "filename": "peace_tech2_a.jpg",
+        "sirlins_filename": "0028_drill_sergeant.jpg",
         "name": "Guardian of the Gates",
         "starting_zone": "codex",
         "color": "Blue",
@@ -285,6 +304,7 @@
     },
     {
         "filename": "peace_tech2_b.jpg",
+        "sirlins_filename": "0029_flagstone_spy.jpg",
         "name": "Insurance Agent",
         "starting_zone": "codex",
         "color": "Blue",
@@ -301,6 +321,7 @@
     },
     {
         "filename": "peace_tech2_c.jpg",
+        "sirlins_filename": "0030_debilitator_alpha.jpg",
         "name": "Justice Juggernaut",
         "starting_zone": "codex",
         "color": "Blue",
@@ -318,6 +339,7 @@
     },
     {
         "filename": "peace_tech2_d.jpg",
+        "sirlins_filename": "0031_air_hammer.jpg",
         "name": "Arresting Constable",
         "starting_zone": "codex",
         "color": "Blue",
@@ -334,6 +356,7 @@
     },
     {
         "filename": "peace_tech2_e.jpg",
+        "sirlins_filename": "0032_flagstone_garrison.jpg",
         "name": "Censorship Council",
         "starting_zone": "codex",
         "color": "Blue",
@@ -348,6 +371,7 @@
     },
     {
         "filename": "peace_tech3.jpg",
+        "sirlins_filename": "0044_patriot_gryphon.jpg",
         "name": "Patriot Gryphon",
         "starting_zone": "codex",
         "color": "Blue",
@@ -366,6 +390,7 @@
     },
     {
         "filename": "truth_spell_a.jpg",
+        "sirlins_filename": "0018_free_speech.jpg",
         "name": "Free Speech",
         "starting_zone": "codex",
         "color": "Blue",
@@ -379,6 +404,7 @@
     },
     {
         "filename": "truth_spell_b.jpg",
+        "sirlins_filename": "0019_hallucination.jpg",
         "name": "Hallucination",
         "starting_zone": "codex",
         "color": "Blue",
@@ -392,6 +418,7 @@
     },
     {
         "filename": "truth_spell_c.jpg",
+        "sirlins_filename": "0020_dreamscape.jpg",
         "name": "Dreamscape",
         "starting_zone": "codex",
         "color": "Blue",
@@ -406,6 +433,7 @@
     },
     {
         "filename": "truth_spell_ult.jpg",
+        "sirlins_filename": "0021_mind_control.jpg",
         "name": "Mind Control",
         "starting_zone": "codex",
         "color": "Blue",
@@ -419,6 +447,7 @@
     },
     {
         "filename": "truth_tech1_a.jpg",
+        "sirlins_filename": "0026_spectral_flagbearer.jpg",
         "name": "Spectral Flagbearer",
         "starting_zone": "codex",
         "color": "Blue",
@@ -436,6 +465,7 @@
     },
     {
         "filename": "truth_tech1_b.jpg",
+        "sirlins_filename": "0027_spectral_hound.jpg",
         "name": "Spectral Hound",
         "starting_zone": "codex",
         "color": "Blue",
@@ -452,6 +482,7 @@
     },
     {
         "filename": "truth_tech2_a.jpg",
+        "sirlins_filename": "0038_macciatus.jpg",
         "name": "Macciatus, The Whisperer",
         "starting_zone": "codex",
         "color": "Blue",
@@ -468,6 +499,7 @@
     },
     {
         "filename": "truth_tech2_b.jpg",
+        "sirlins_filename": "0039_reteller_of_truths.jpg",
         "name": "Reteller of Truths",
         "starting_zone": "codex",
         "color": "Blue",
@@ -485,6 +517,7 @@
     },
     {
         "filename": "truth_tech2_c.jpg",
+        "sirlins_filename": "0040_spectral_tiger.jpg",
         "name": "Spectral Tiger",
         "starting_zone": "codex",
         "color": "Blue",
@@ -501,6 +534,7 @@
     },
     {
         "filename": "truth_tech2_d.jpg",
+        "sirlins_filename": "0041_spectral_roc.jpg",
         "name": "Spectral Roc",
         "starting_zone": "codex",
         "color": "Blue",
@@ -518,6 +552,7 @@
     },
     {
         "filename": "truth_tech2_e.jpg",
+        "sirlins_filename": "0042_eyes_of_the_chancellor.jpg",
         "name": "Eyes of the Chancellor",
         "starting_zone": "codex",
         "color": "Blue",
@@ -533,6 +568,7 @@
     },
     {
         "filename": "truth_tech3.jpg",
+        "sirlins_filename": "0045_liberty_gryphon.jpg",
         "name": "Liberty Gryphon",
         "starting_zone": "codex",
         "color": "Blue",
@@ -571,6 +607,7 @@
     },
     {
         "filename": "blue_card_a.jpg",
+        "sirlins_filename": "0000_building_inspector.jpg",
         "name": "Building Inspector",
         "starting_zone": "deck",
         "color": "Blue",
@@ -586,6 +623,7 @@
     },
     {
         "filename": "blue_card_b.jpg",
+        "sirlins_filename": "0001_spectral_aven.jpg",
         "name": "Spectral Aven",
         "starting_zone": "deck",
         "color": "Blue",
@@ -602,6 +640,7 @@
     },
     {
         "filename": "blue_card_c.jpg",
+        "sirlins_filename": "0002_bluecoat_musketeer.jpg",
         "name": "Bluecoat Musketeer",
         "starting_zone": "deck",
         "color": "Blue",
@@ -618,6 +657,7 @@
     },
     {
         "filename": "blue_card_d.jpg",
+        "sirlins_filename": "0003_traffic_director.jpg",
         "name": "Traffic Director",
         "starting_zone": "deck",
         "color": "Blue",
@@ -634,6 +674,7 @@
     },
     {
         "filename": "blue_card_e.jpg",
+        "sirlins_filename": "0004_porkhand_magistrate.jpg",
         "name": "Porkhand Magistrate",
         "starting_zone": "deck",
         "color": "Blue",
@@ -649,6 +690,7 @@
     },
     {
         "filename": "blue_card_f.jpg",
+        "sirlins_filename": "0005_reputable_newsman.jpg",
         "name": "Reputable Newsman",
         "starting_zone": "deck",
         "color": "Blue",
@@ -664,6 +706,7 @@
     },
     {
         "filename": "blue_card_g.jpg",
+        "sirlins_filename": "0006_jail.jpg",
         "name": "Jail",
         "starting_zone": "deck",
         "color": "Blue",
@@ -677,6 +720,7 @@
     },
     {
         "filename": "blue_card_h.jpg",
+        "sirlins_filename": "0007_lawful_search.jpg",
         "name": "Lawful Search",
         "starting_zone": "deck",
         "color": "Blue",
@@ -688,6 +732,7 @@
     },
     {
         "filename": "blue_card_i.jpg",
+        "sirlins_filename": "0008_arrest.jpg",
         "name": "Arrest",
         "starting_zone": "deck",
         "color": "Blue",
@@ -700,6 +745,7 @@
     },
     {
         "filename": "blue_card_j.jpg",
+        "sirlins_filename": "0009_manufactured_truth.jpg",
         "name": "Manufactured Truth",
         "starting_zone": "deck",
         "color": "Blue",
@@ -710,6 +756,7 @@
         "sha1": "8d36ee2d2e0692d8c42b20c055de23a37d615d65"
     },
     {
+        "filename": "soldier_token.jpg",
         "name": "Soldier",
         "starting_zone": "trash",
         "color": "Blue",
@@ -723,6 +770,7 @@
         "rules_text_1": "Sparkshot"
     },
     {
+        "filename": "mirror_token.jpg",
         "name": "Mirror Illusion",
         "starting_zone": "trash",
         "color": "Blue",
@@ -735,6 +783,7 @@
         "HP": 1
     },
     {
+        "filename": "water_elemental_token.jpg",
         "name": "Water Elemental",
         "starting_zone": "trash",
         "color": "Blue",

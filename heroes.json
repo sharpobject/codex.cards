@@ -1,6 +1,7 @@
 [
     {
         "filename": "discipline_hero.jpg",
+        "sirlins_filename": "0015_discipline_hero.jpg",
         "name": "Grave Stormborne",
         "starting_zone": "command",
         "color": "White",
@@ -23,6 +24,7 @@
     },
     {
         "filename": "ninjutsu_hero.jpg",
+        "sirlins_filename": "0016_ninjutsu_hero.jpg",
         "name": "Setsuki Hiruki",
         "starting_zone": "command",
         "color": "White",
@@ -44,6 +46,7 @@
     },
     {
         "filename": "strength_hero.jpg",
+        "sirlins_filename": "0017_strength_hero.jpg",
         "name": "Garus Rook",
         "starting_zone": "command",
         "color": "White",
@@ -64,6 +67,7 @@
     },
     {
         "filename": "law_hero.jpg",
+        "sirlins_filename": "0006_law_hero.jpg",
         "name": "Bigby Hayes",
         "starting_zone": "command",
         "color": "Blue",
@@ -85,6 +89,7 @@
     },
     {
         "filename": "peace_hero.jpg",
+        "sirlins_filename": "0007_peace_hero.jpg",
         "name": "General Onimaru",
         "starting_zone": "command",
         "color": "Blue",
@@ -106,6 +111,7 @@
     },
     {
         "filename": "truth_hero.jpg",
+        "sirlins_filename": "0008_truth_hero.jpg",
         "name": "Sirus Quince",
         "starting_zone": "command",
         "color": "Blue",
@@ -128,6 +134,7 @@
     },
     {
         "filename": "demonology_hero.jpg",
+        "sirlins_filename": "0009_demonology_hero.jpg",
         "name": "Vandy Anadrose",
         "starting_zone": "command",
         "color": "Black",
@@ -150,6 +157,7 @@
     },
     {
         "filename": "disease_hero.jpg",
+        "sirlins_filename": "0010_disease_hero.jpg",
         "name": "Orpal Gloor",
         "starting_zone": "command",
         "color": "Black",
@@ -172,6 +180,7 @@
     },
     {
         "filename": "necromancy_hero.jpg",
+        "sirlins_filename": "0011_necromancy_hero.jpg",
         "name": "Garth Torken",
         "starting_zone": "command",
         "color": "Black",
@@ -193,6 +202,7 @@
     },
     {
         "filename": "anarchy_hero.jpg",
+        "sirlins_filename": "0000_anarchy_hero.jpg",
         "name": "Captain Zane",
         "starting_zone": "command",
         "color": "Red",
@@ -215,6 +225,7 @@
     },
     {
         "filename": "blood_hero.jpg",
+        "sirlins_filename": "0001_blood_hero.jpg",
         "name": "Drakk Ramhorn",
         "starting_zone": "command",
         "color": "Red",
@@ -236,6 +247,7 @@
     },
     {
         "filename": "fire_hero.jpg",
+        "sirlins_filename": "0002_fire_hero.jpg",
         "name": "Jaina Stormborne",
         "starting_zone": "command",
         "color": "Red",
@@ -257,6 +269,7 @@
     },
     {
         "filename": "balance_hero.jpg",
+        "sirlins_filename": "0003_balance_hero.jpg",
         "name": "Master Midori",
         "starting_zone": "command",
         "color": "Green",
@@ -277,6 +290,7 @@
     },
     {
         "filename": "feral_hero.jpg",
+        "sirlins_filename": "0004_feral_hero.jpg",
         "name": "Calamandra Moss",
         "starting_zone": "command",
         "color": "Green",
@@ -298,6 +312,7 @@
     },
     {
         "filename": "growth_hero.jpg",
+        "sirlins_filename": "0005_growth_hero.jpg",
         "name": "Argagarg Garg",
         "starting_zone": "command",
         "color": "Green",
@@ -319,6 +334,7 @@
     },
     {
         "filename": "past_hero.jpg",
+        "sirlins_filename": "0012_past_hero.jpg",
         "name": "Prynn Pasternaak",
         "starting_zone": "command",
         "color": "Purple",
@@ -342,6 +358,7 @@
     },
     {
         "filename": "present_hero.jpg",
+        "sirlins_filename": "0013_present_hero.jpg",
         "name": "Max Geiger",
         "starting_zone": "command",
         "color": "Purple",
@@ -363,6 +380,7 @@
     },
     {
         "filename": "future_hero.jpg",
+        "sirlins_filename": "0014_future_hero.jpg",
         "name": "Vir Garbarean",
         "starting_zone": "command",
         "color": "Purple",
@@ -385,6 +403,7 @@
     },
     {
         "filename": "bashing_hero.jpg",
+        "sirlins_filename": "0020_bashing_hero.jpg",
         "name": "Troq Bashar",
         "starting_zone": "command",
         "color": "Neutral",
@@ -405,6 +424,7 @@
     },
     {
         "filename": "finesse_hero.jpg",
+        "sirlins_filename": "0021_finesse_hero.jpg",
         "name": "River Montoya",
         "starting_zone": "command",
         "color": "Neutral",

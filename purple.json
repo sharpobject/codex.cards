@@ -1,6 +1,7 @@
 [
     {
         "filename": "past_spell_a.jpg",
+        "sirlins_filename": "0010_vortoss_emblem.jpg",
         "name": "Vortoss Emblem",
         "starting_zone": "codex",
         "color": "Purple",
@@ -15,6 +16,7 @@
     },
     {
         "filename": "past_spell_b.jpg",
+        "sirlins_filename": "0011_undo.jpg",
         "name": "Undo",
         "starting_zone": "codex",
         "color": "Purple",
@@ -28,6 +30,7 @@
     },
     {
         "filename": "past_spell_c.jpg",
+        "sirlins_filename": "0012_origin_story.jpg",
         "name": "Origin Story",
         "starting_zone": "codex",
         "color": "Purple",
@@ -40,6 +43,7 @@
     },
     {
         "filename": "past_spell_ult.jpg",
+        "sirlins_filename": "0013_rewind.jpg",
         "name": "Rewind",
         "starting_zone": "codex",
         "color": "Purple",
@@ -55,6 +59,7 @@
     },
     {
         "filename": "past_tech1_a.jpg",
+        "sirlins_filename": "0022_seer.jpg",
         "name": "Seer",
         "starting_zone": "codex",
         "color": "Purple",
@@ -71,6 +76,7 @@
     },
     {
         "filename": "past_tech1_b.jpg",
+        "sirlins_filename": "0023_stewardess_of_the_undone.jpg",
         "name": "Stewardess of the Undone",
         "starting_zone": "codex",
         "color": "Purple",
@@ -87,6 +93,7 @@
     },
     {
         "filename": "past_tech2_a.jpg",
+        "sirlins_filename": "0028_shimmer_ray.jpg",
         "name": "Shimmer Ray",
         "starting_zone": "codex",
         "color": "Purple",
@@ -104,6 +111,7 @@
     },
     {
         "filename": "past_tech2_b.jpg",
+        "sirlins_filename": "0029_yesterdays_golgort.jpg",
         "name": "Yesterday's Golgort",
         "starting_zone": "codex",
         "color": "Purple",
@@ -121,6 +129,7 @@
     },
     {
         "filename": "past_tech2_c.jpg",
+        "sirlins_filename": "0030_rememberer.jpg",
         "name": "Rememberer",
         "starting_zone": "codex",
         "color": "Purple",
@@ -139,6 +148,7 @@
     },
     {
         "filename": "past_tech2_d.jpg",
+        "sirlins_filename": "0031_second_chances.jpg",
         "name": "Second Chances",
         "starting_zone": "codex",
         "color": "Purple",
@@ -153,6 +163,7 @@
     },
     {
         "filename": "past_tech2_e.jpg",
+        "sirlins_filename": "0032_slow_time_generator.jpg",
         "name": "Slow-Time Generator",
         "starting_zone": "codex",
         "color": "Purple",
@@ -167,6 +178,7 @@
     },
     {
         "filename": "past_tech3.jpg",
+        "sirlins_filename": "0043_ebbflow_archon.jpg",
         "name": "Ebbflow Archon",
         "starting_zone": "codex",
         "color": "Purple",
@@ -185,6 +197,7 @@
     },
     {
         "filename": "present_spell_a.jpg",
+        "sirlins_filename": "0014_temporal_distortion.jpg",
         "name": "Temporal Distortion",
         "starting_zone": "codex",
         "color": "Purple",
@@ -197,6 +210,7 @@
     },
     {
         "filename": "present_spell_b.jpg",
+        "sirlins_filename": "0015_now.jpg",
         "name": "Now!",
         "starting_zone": "codex",
         "color": "Purple",
@@ -210,6 +224,7 @@
     },
     {
         "filename": "present_spell_c.jpg",
+        "sirlins_filename": "0016_ready_or_not.jpg",
         "name": "Ready or Not",
         "starting_zone": "codex",
         "color": "Purple",
@@ -223,6 +238,7 @@
     },
     {
         "filename": "present_spell_ult.jpg",
+        "sirlins_filename": "0017_research_&_development.jpg",
         "name": "Research & Development",
         "starting_zone": "codex",
         "color": "Purple",
@@ -235,6 +251,7 @@
     },
     {
         "filename": "present_tech1_a.jpg",
+        "sirlins_filename": "0024_argonaut.jpg",
         "name": "Argonaut",
         "starting_zone": "codex",
         "color": "Purple",
@@ -251,6 +268,7 @@
     },
     {
         "filename": "present_tech1_b.jpg",
+        "sirlins_filename": "0025_sentry.jpg",
         "name": "Sentry",
         "starting_zone": "codex",
         "color": "Purple",
@@ -268,6 +286,7 @@
     },
     {
         "filename": "present_tech2_a.jpg",
+        "sirlins_filename": "0033_chronofixer.jpg",
         "name": "Chronofixer",
         "starting_zone": "codex",
         "color": "Purple",
@@ -285,6 +304,7 @@
     },
     {
         "filename": "present_tech2_b.jpg",
+        "sirlins_filename": "0034_hyperion.jpg",
         "name": "Hyperion",
         "starting_zone": "codex",
         "color": "Purple",
@@ -302,6 +322,7 @@
     },
     {
         "filename": "present_tech2_c.jpg",
+        "sirlins_filename": "0035_warp_gate_disciple.jpg",
         "name": "Warp Gate Disciple",
         "starting_zone": "codex",
         "color": "Purple",
@@ -318,6 +339,7 @@
     },
     {
         "filename": "present_tech2_d.jpg",
+        "sirlins_filename": "0036_immortal.jpg",
         "name": "Immortal",
         "starting_zone": "codex",
         "color": "Purple",
@@ -334,6 +356,7 @@
     },
     {
         "filename": "present_tech2_e.jpg",
+        "sirlins_filename": "0037_tricycloid.jpg",
         "name": "Tricycloid",
         "starting_zone": "codex",
         "color": "Purple",
@@ -352,6 +375,7 @@
     },
     {
         "filename": "present_tech3.jpg",
+        "sirlins_filename": "0044_octavian.jpg",
         "name": "Octavian",
         "starting_zone": "codex",
         "color": "Purple",
@@ -368,6 +392,7 @@
     },
     {
         "filename": "future_spell_a.jpg",
+        "sirlins_filename": "0018_promise_of_payment.jpg",
         "name": "Promise of Payment",
         "starting_zone": "codex",
         "color": "Purple",
@@ -380,6 +405,7 @@
     },
     {
         "filename": "future_spell_b.jpg",
+        "sirlins_filename": "0019_unphase.jpg",
         "name": "Unphase",
         "starting_zone": "codex",
         "color": "Purple",
@@ -393,6 +419,7 @@
     },
     {
         "filename": "future_spell_c.jpg",
+        "sirlins_filename": "0020_assimilate.jpg",
         "name": "Assimilate",
         "starting_zone": "codex",
         "color": "Purple",
@@ -405,6 +432,7 @@
     },
     {
         "filename": "future_spell_ult.jpg",
+        "sirlins_filename": "0021_double_time.jpg",
         "name": "Double Time",
         "starting_zone": "codex",
         "color": "Purple",
@@ -418,6 +446,7 @@
     },
     {
         "filename": "future_tech1_a.jpg",
+        "sirlins_filename": "0026_Knight_of_the_Conclave.jpg",
         "name": "Knight of the Conclave",
         "starting_zone": "codex",
         "color": "Purple",
@@ -435,6 +464,7 @@
     },
     {
         "filename": "future_tech1_b.jpg",
+        "sirlins_filename": "0027_gilded_glaxx.jpg",
         "name": "Gilded Glaxx",
         "starting_zone": "codex",
         "color": "Purple",
@@ -451,6 +481,7 @@
     },
     {
         "filename": "future_tech2_a.jpg",
+        "sirlins_filename": "0038_omegacron.jpg",
         "name": "Omegacron",
         "starting_zone": "codex",
         "color": "Purple",
@@ -469,6 +500,7 @@
     },
     {
         "filename": "future_tech2_b.jpg",
+        "sirlins_filename": "0039_reaver.jpg",
         "name": "Reaver",
         "starting_zone": "codex",
         "color": "Purple",
@@ -486,6 +518,7 @@
     },
     {
         "filename": "future_tech2_c.jpg",
+        "sirlins_filename": "0040_void_star.jpg",
         "name": "Void Star",
         "starting_zone": "codex",
         "color": "Purple",
@@ -504,6 +537,7 @@
     },
     {
         "filename": "future_tech2_d.jpg",
+        "sirlins_filename": "0041_xenostalker.jpg",
         "name": "Xenostalker",
         "starting_zone": "codex",
         "color": "Purple",
@@ -521,6 +555,7 @@
     },
     {
         "filename": "future_tech2_e.jpg",
+        "sirlins_filename": "0042_hive.jpg",
         "name": "Hive",
         "starting_zone": "codex",
         "color": "Purple",
@@ -540,6 +575,7 @@
     },
     {
         "filename": "future_tech3.jpg",
+        "sirlins_filename": "0045_nebula.jpg",
         "name": "Nebula",
         "starting_zone": "codex",
         "color": "Purple",
@@ -578,6 +614,7 @@
     },
     {
         "filename": "purple_card_a.jpg",
+        "sirlins_filename": "0000_neo_plexus.jpg",
         "name": "Neo Plexus",
         "starting_zone": "deck",
         "color": "Purple",
@@ -592,6 +629,7 @@
     },
     {
         "filename": "purple_card_b.jpg",
+        "sirlins_filename": "0001_plasmodium.jpg",
         "name": "Plasmodium",
         "starting_zone": "deck",
         "color": "Purple",
@@ -609,6 +647,7 @@
     },
     {
         "filename": "purple_card_c.jpg",
+        "sirlins_filename": "0002_nullcraft.jpg",
         "name": "Nullcraft",
         "starting_zone": "deck",
         "color": "Purple",
@@ -625,6 +664,7 @@
     },
     {
         "filename": "purple_card_d.jpg",
+        "sirlins_filename": "0003_fading_argonaut.jpg",
         "name": "Fading Argonaut",
         "starting_zone": "deck",
         "color": "Purple",
@@ -640,6 +680,7 @@
     },
     {
         "filename": "purple_card_e.jpg",
+        "sirlins_filename": "0004_tinkerer.jpg",
         "name": "Tinkerer",
         "starting_zone": "deck",
         "color": "Purple",
@@ -655,6 +696,7 @@
     },
     {
         "filename": "purple_card_f.jpg",
+        "sirlins_filename": "0005_hardened_mox.jpg",
         "name": "Hardened Mox",
         "starting_zone": "deck",
         "color": "Purple",
@@ -671,6 +713,7 @@
     },
     {
         "filename": "purple_card_g.jpg",
+        "sirlins_filename": "0006_battle_suits.jpg",
         "name": "Battle Suits",
         "starting_zone": "deck",
         "color": "Purple",
@@ -683,6 +726,7 @@
     },
     {
         "filename": "purple_card_h.jpg",
+        "sirlins_filename": "0007_time_spiral.jpg",
         "name": "Time Spiral",
         "starting_zone": "deck",
         "color": "Purple",
@@ -694,6 +738,7 @@
     },
     {
         "filename": "purple_card_i.jpg",
+        "sirlins_filename": "0008_temporal_research.jpg",
         "name": "Temporal Research",
         "starting_zone": "deck",
         "color": "Purple",
@@ -707,6 +752,7 @@
     },
     {
         "filename": "purple_card_j.jpg",
+        "sirlins_filename": "0009_forgotten_fighter.jpg",
         "name": "Forgotten Fighter",
         "starting_zone": "deck",
         "color": "Purple",
@@ -718,6 +764,7 @@
         "sha1": "8837e9e4b68eb2b2d0dafd2b89fa21200253dc91"
     },
     {
+        "filename": "stinger_token.jpg",
         "name": "Stinger",
         "starting_zone": "trash",
         "color": "Purple",
@@ -731,6 +778,7 @@
         "rules_text_1": "Flying"
     },
     {
+        "filename": "mech_token.jpg",
         "name": "Mech",
         "starting_zone": "trash",
         "color": "Purple",

@@ -1,6 +1,7 @@
 [
     {
         "filename": "anarchy_spell_a.jpg",
+        "sirlins_filename": "0011_chaos_mirror.jpg",
         "name": "Chaos Mirror",
         "starting_zone": "codex",
         "color": "Red",
@@ -13,6 +14,7 @@
     },
     {
         "filename": "anarchy_spell_b.jpg",
+        "sirlins_filename": "0012_detonate.jpg",
         "name": "Detonate",
         "starting_zone": "codex",
         "color": "Red",
@@ -26,6 +28,7 @@
     },
     {
         "filename": "anarchy_spell_c.jpg",
+        "sirlins_filename": "0013_surprise_attack.jpg",
         "name": "Surprise Attack",
         "starting_zone": "codex",
         "color": "Red",
@@ -40,6 +43,7 @@
     },
     {
         "filename": "anarchy_spell_ult.jpg",
+        "sirlins_filename": "0014_maximum_anarchy.jpg",
         "name": "Maximum Anarchy",
         "starting_zone": "codex",
         "color": "Red",
@@ -52,6 +56,7 @@
     },
     {
         "filename": "anarchy_tech1_a.jpg",
+        "sirlins_filename": "0023_calypso_vystari.jpg",
         "name": "Calypso Vystari",
         "starting_zone": "codex",
         "color": "Red",
@@ -68,6 +73,7 @@
     },
     {
         "filename": "anarchy_tech1_b.jpg",
+        "sirlins_filename": "0024_gunpoint_taxman.jpg",
         "name": "Gunpoint Taxman",
         "starting_zone": "codex",
         "color": "Red",
@@ -85,6 +91,7 @@
     },
     {
         "filename": "anarchy_tech2_a.jpg",
+        "sirlins_filename": "0029_disguised_monkey.jpg",
         "name": "Disguised Monkey",
         "starting_zone": "codex",
         "color": "Red",
@@ -102,6 +109,7 @@
     },
     {
         "filename": "anarchy_tech2_b.jpg",
+        "sirlins_filename": "0030_chameleon_lizzo.jpg",
         "name": "Chameleon Lizzo",
         "starting_zone": "codex",
         "color": "Red",
@@ -120,6 +128,7 @@
     },
     {
         "filename": "anarchy_tech2_c.jpg",
+        "sirlins_filename": "0031_marauder.jpg",
         "name": "Marauder",
         "starting_zone": "codex",
         "color": "Red",
@@ -139,6 +148,7 @@
     },
     {
         "filename": "anarchy_tech2_d.jpg",
+        "sirlins_filename": "0032_steam_tank.jpg",
         "name": "Steam Tank",
         "starting_zone": "codex",
         "color": "Red",
@@ -155,6 +165,7 @@
     },
     {
         "filename": "anarchy_tech2_e.jpg",
+        "sirlins_filename": "0033_sanatorium.jpg",
         "name": "Sanatorium",
         "starting_zone": "codex",
         "color": "Red",
@@ -169,6 +180,7 @@
     },
     {
         "filename": "anarchy_tech3.jpg",
+        "sirlins_filename": "0044_pirate_gunship.jpg",
         "name": "Pirate Gunship",
         "starting_zone": "codex",
         "color": "Red",
@@ -186,6 +198,7 @@
     },
     {
         "filename": "blood_spell_a.jpg",
+        "sirlins_filename": "0015_desperation.jpg",
         "name": "Desperation",
         "starting_zone": "codex",
         "color": "Red",
@@ -199,6 +212,7 @@
     },
     {
         "filename": "blood_spell_b.jpg",
+        "sirlins_filename": "0016_kidnapping.jpg",
         "name": "Kidnapping",
         "starting_zone": "codex",
         "color": "Red",
@@ -212,6 +226,7 @@
     },
     {
         "filename": "blood_spell_c.jpg",
+        "sirlins_filename": "0017_bloodlust.jpg",
         "name": "Bloodlust",
         "starting_zone": "codex",
         "color": "Red",
@@ -225,6 +240,7 @@
     },
     {
         "filename": "blood_spell_ult.jpg",
+        "sirlins_filename": "0018_war_drums.jpg",
         "name": "War Drums",
         "starting_zone": "codex",
         "color": "Red",
@@ -239,6 +255,7 @@
     },
     {
         "filename": "blood_tech1_a.jpg",
+        "sirlins_filename": "0025_crash_bomber.jpg",
         "name": "Crash Bomber",
         "starting_zone": "codex",
         "color": "Red",
@@ -256,6 +273,7 @@
     },
     {
         "filename": "blood_tech1_b.jpg",
+        "sirlins_filename": "0026_rickety_mine.jpg",
         "name": "Rickety Mine",
         "starting_zone": "codex",
         "color": "Red",
@@ -272,6 +290,7 @@
     },
     {
         "filename": "blood_tech2_a.jpg",
+        "sirlins_filename": "0034_shoddy_glider.jpg",
         "name": "Shoddy Glider",
         "starting_zone": "codex",
         "color": "Red",
@@ -289,6 +308,7 @@
     },
     {
         "filename": "blood_tech2_b.jpg",
+        "sirlins_filename": "0035_captured_bugblatter.jpg",
         "name": "Captured Bugblatter",
         "starting_zone": "codex",
         "color": "Red",
@@ -306,6 +326,7 @@
     },
     {
         "filename": "blood_tech2_c.jpg",
+        "sirlins_filename": "0036_crashbarrow.jpg",
         "name": "Crashbarrow",
         "starting_zone": "codex",
         "color": "Red",
@@ -323,6 +344,7 @@
     },
     {
         "filename": "blood_tech2_d.jpg",
+        "sirlins_filename": "0037_land_octopus.jpg",
         "name": "Land Octopus",
         "starting_zone": "codex",
         "color": "Red",
@@ -341,6 +363,7 @@
     },
     {
         "filename": "blood_tech2_e.jpg",
+        "sirlins_filename": "0038_ogre_recruiter.jpg",
         "name": "Ogre Recruiter",
         "starting_zone": "codex",
         "color": "Red",
@@ -357,6 +380,7 @@
     },
     {
         "filename": "blood_tech3.jpg",
+        "sirlins_filename": "0045_pirate_gang_commander.jpg",
         "name": "Pirate-Gang Commander",
         "starting_zone": "codex",
         "color": "Red",
@@ -375,6 +399,7 @@
     },
     {
         "filename": "fire_spell_a.jpg",
+        "sirlins_filename": "0019_fire_dart.jpg",
         "name": "Fire Dart",
         "starting_zone": "codex",
         "color": "Red",
@@ -388,6 +413,7 @@
     },
     {
         "filename": "fire_spell_b.jpg",
+        "sirlins_filename": "0020_ember_sparks.jpg",
         "name": "Ember Sparks",
         "starting_zone": "codex",
         "color": "Red",
@@ -401,6 +427,7 @@
     },
     {
         "filename": "fire_spell_c.jpg",
+        "sirlins_filename": "0021_flame_arrow.jpg",
         "name": "Flame Arrow",
         "starting_zone": "codex",
         "color": "Red",
@@ -414,6 +441,7 @@
     },
     {
         "filename": "fire_spell_ult.jpg",
+        "sirlins_filename": "0022_burning_volley.jpg",
         "name": "Burning Volley",
         "starting_zone": "codex",
         "color": "Red",
@@ -427,6 +455,7 @@
     },
     {
         "filename": "fire_tech1_a.jpg",
+        "sirlins_filename": "0027_lobber.jpg",
         "name": "Lobber",
         "starting_zone": "codex",
         "color": "Red",
@@ -444,6 +473,7 @@
     },
     {
         "filename": "fire_tech1_b.jpg",
+        "sirlins_filename": "0028_firebat.jpg",
         "name": "Firebat",
         "starting_zone": "codex",
         "color": "Red",
@@ -460,6 +490,7 @@
     },
     {
         "filename": "fire_tech2_a.jpg",
+        "sirlins_filename": "0039_bamstamper_lizzo.jpg",
         "name": "Bamstamper Lizzo",
         "starting_zone": "codex",
         "color": "Red",
@@ -476,6 +507,7 @@
     },
     {
         "filename": "fire_tech2_b.jpg",
+        "sirlins_filename": "0040_doubleshot_archer.jpg",
         "name": "Doubleshot Archer",
         "starting_zone": "codex",
         "color": "Red",
@@ -493,6 +525,7 @@
     },
     {
         "filename": "fire_tech2_c.jpg",
+        "sirlins_filename": "0041_molting_firebird.jpg",
         "name": "Molting Firebird",
         "starting_zone": "codex",
         "color": "Red",
@@ -510,6 +543,7 @@
     },
     {
         "filename": "fire_tech2_d.jpg",
+        "sirlins_filename": "0042_firehouse.jpg",
         "name": "Firehouse",
         "starting_zone": "codex",
         "color": "Red",
@@ -524,6 +558,7 @@
     },
     {
         "filename": "fire_tech2_e.jpg",
+        "sirlins_filename": "0043_hotter_fire.jpg",
         "name": "Hotter Fire",
         "starting_zone": "codex",
         "color": "Red",
@@ -537,6 +572,7 @@
     },
     {
         "filename": "fire_tech3.jpg",
+        "sirlins_filename": "0046_cinderblast_dragon.jpg",
         "name": "Cinderblast Dragon",
         "starting_zone": "codex",
         "color": "Red",
@@ -574,6 +610,7 @@
     },
     {
         "filename": "red_card_a.jpg",
+        "sirlins_filename": "0001_nautical_dog.jpg",
         "name": "Nautical Dog",
         "starting_zone": "deck",
         "color": "Red",
@@ -589,6 +626,7 @@
     },
     {
         "filename": "red_card_b.jpg",
+        "sirlins_filename": "0002_mad_man.jpg",
         "name": "Mad Man",
         "starting_zone": "deck",
         "color": "Red",
@@ -604,6 +642,7 @@
     },
     {
         "filename": "red_card_c.jpg",
+        "sirlins_filename": "0003_bombaster.jpg",
         "name": "Bombaster",
         "starting_zone": "deck",
         "color": "Red",
@@ -619,6 +658,7 @@
     },
     {
         "filename": "red_card_d.jpg",
+        "sirlins_filename": "0004_careless_musketeer.jpg",
         "name": "Careless Musketeer",
         "starting_zone": "deck",
         "color": "Red",
@@ -634,6 +674,7 @@
     },
     {
         "filename": "red_card_e.jpg",
+        "sirlins_filename": "0005_bloodrage_ogre.jpg",
         "name": "Bloodrage Ogre",
         "starting_zone": "deck",
         "color": "Red",
@@ -649,6 +690,7 @@
     },
     {
         "filename": "red_card_f.jpg",
+        "sirlins_filename": "0006_makeshift_rambaster.jpg",
         "name": "Makeshift Rambaster",
         "starting_zone": "deck",
         "color": "Red",
@@ -666,6 +708,7 @@
     },
     {
         "filename": "red_card_g.jpg",
+        "sirlins_filename": "0007_bloodburn.jpg",
         "name": "Bloodburn",
         "starting_zone": "deck",
         "color": "Red",
@@ -679,6 +722,7 @@
     },
     {
         "filename": "red_card_h.jpg",
+        "sirlins_filename": "0008_scorch.jpg",
         "name": "Scorch",
         "starting_zone": "deck",
         "color": "Red",
@@ -691,6 +735,7 @@
     },
     {
         "filename": "red_card_i.jpg",
+        "sirlins_filename": "0009_charge.jpg",
         "name": "Charge",
         "starting_zone": "deck",
         "color": "Red",
@@ -703,6 +748,7 @@
     },
     {
         "filename": "red_card_j.jpg",
+        "sirlins_filename": "0010_pillage.jpg",
         "name": "Pillage",
         "starting_zone": "deck",
         "color": "Red",
@@ -714,9 +760,10 @@
         "sha1": "590868033ba948329acf2026a067dce923cf1e46"
     },
     {
+        "filename": "shark_token.jpg",
         "name": "Shark",
         "starting_zone": "trash",
-        "color": "Red",
+        "color": "Blue",
         "type": "Unit",
         "subtype": "Shark",
         "cost": 0,
@@ -727,6 +774,7 @@
         "rules_text_1": "Haste, ephemeral"
     },
     {
+        "filename": "pirate_token.jpg",
         "name": "Pirate",
         "starting_zone": "trash",
         "color": "Red",
