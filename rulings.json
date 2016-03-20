@@ -1,0 +1,2734 @@
+{
+    "General": [
+        {
+            "card": "Anti-air",
+            "abilityText": "Can attack fliers, but can ignore patrolling fliers. Deals combat damage to fliers it fights or that fly over this while it patrols.",
+            "ruling": "You don't have to attack patrolling fliers with your anti-air attacker. You can ignore them and attack something else if you want.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Anti-air",
+            "ruling": "When one of your ground forces WITH anti-air gets attacked by a flier, each deals combat damage to the other. If your ground unit or hero doesn't have anti-air though, the flier will deal its combat damage \"for free\" to your ground unit or hero, and you won't get to hit back.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Anti-air",
+            "ruling": "When something \"flies over\" your patroller with anti-air, that means it used FLYING in particular to ignore your patroller. For example, if an attacker has stealth and flying and you don't have a detector, then the attacker doesn't even need to use flying to ignore your patroller. Stealth allows it to ignore your patroller so no \"fly over\" happened there and your anti-air patroller will not hit the attacker.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Anti-air",
+            "ruling": "If you have multiple patrollers with anti-air, they all deal combat damage to a flier that flies over all of them. For example, if you have a squad leader and two other patrollers, all three of which have anti-air, and a flier attacks your tech II building, then the flier deals its combat damage to the tech II building simultaneously as the three anti-air patrollers deal combat damage to the flier. But if that same flier were to attack just your squad leader, your two OTHER patrollers wouldn't deal combat damage to it because it did not \"fly over\" them. Or if that same flier attacked one of those two patrollers, the squad leader would deal combat damage to it (and the anti-air patroller it attacked would), but the third anti-air patroller would not deal combat damage to it because the flier didn't \"fly over\" that particular patroller.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Anti-air",
+            "ruling": "All combat damage (except swift strike) is dealt simultaneously, and anti-air is not an exception. Anti-air combat damage is dealt at the same time as everything else, unless it has swift strike, in which case it's dealt before combat damage that doesn't have swift strike.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Anti-air",
+            "ruling": "A unit or hero that has both flying and anti-air does not benefit from anti-air. In other words, anti-air doesn't allow your fliers to ignore patrollers with flying. Fliers can already attack and damage other fliers, and patrollers with flying can't be flown over anyway.",
+            "date": "2016-03-15T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Boost X",
+            "abilityText": "You may pay an additional X when you play this to get the boost effect.",
+            "ruling": "If something has you \"put a unit into play,\" that's different from \"playing it\" so you can't pay for or use a boost effect in that case. Likewise, if a unit with a boost enters play through any means other than playing it from your hand (such as being returned from Second Chances or Geiger or Pasternaak's max level abilities) then you can't use its boost.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Boost X",
+            "ruling": "If an opponent has Jail and you play a unit with a boost, you CAN pay for and use the boost. You do that immediately as you play the unit from your hand, then the boost effect happens and your unit goes to Jail. When it leaves Jail and arrives in play, you do not have a chance to pay for or use the boost a second time.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Channelling",
+            "abilityText": "Stays in play. Sacrifice it when you lose your ____ hero.",
+            "ruling": "If at any moment you don't control the correct hero for a channeling spell, you sacrifice the channeling spell.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Deathtouch",
+            "abilityText": "Combat damage this deals to units or heroes, even to their armor, kills them.",
+            "ruling": "Anything that checks for \"dying from combat damage\" such as Brave Knight or Gilded Glaxx does \"die from combat damage\" if deathtouch hits it.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Detector",
+            "abilityText": "Opposing stealth and invisible forces are visible to you."
+        },
+        {
+            "card": "Ephemeral",
+            "abilityText": "Dies at end of turn.",
+            "ruling": "Ephemeral triggers at the end of each player's turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Fading X",
+            "abilityText": "Arrives with X time runes. Remove one each upkeep. When you remove the last, sacrifice this.",
+            "ruling": "If you remove the last time rune for some other reason than the fading ability, such as from Time Spiral, Seer, or Tinkerer, you still must sacrifice the fading thing.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fading X",
+            "ruling": "If you somehow have something with fading in play with 0 time runes (probably because you made a copy of something if fading), it won't die from fading anymore.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Fading X",
+            "ruling": "X is not a limit to the number of time runes you can have on that card. For example, you can play Shimmer Ray and discard 4 cards so that it has 6 time runes; you're not limited to 2 total.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flying",
+            "abilityText": "Can fly over ground patrollers. Ground forces without anti-air can't attack this or deal combat damage to it when attacked.",
+            "ruling": "As a conceptual shorthand, think about flying and anti-air as follows:\n\nGround forces without anti-air can only shoot straight. They can never hit fliers, ever.\nFlying forces can shoot both straight and down.\nAnti-air forces can shoot both straight and up. This is never a handicap because even though they CAN hit patrolling fliers, they aren't forced to.\n\nAs a patroller, you only stop an attacker if it's on the *same* level as you.\nAnti-air ground forces on patrol will shoot at fliers as they fly over.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flying",
+            "ruling": "Fliers can ignore patrollers that don't have flying. In other words, they can attack something else instead if you want.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flying",
+            "ruling": "Fliers cannot ignore flying patrollers. The usual rules of the patrol zone apply, meaning if you want to attack with a flier at all, that flier CAN attack patrolling fliers so it must do that rather than attack other things such as non-patrollers or tech buildings.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flying",
+            "ruling": "When a flier attacks another flier or gets attacked by another flier, they both deal combat damage to each other as usual. When a flier attacks a ground unit or hero without anti-air, the flier deals its combat damage to the ground thing and the ground thing does NOT deal any combat damage to the flier. Ground forces without anti-air cannot even attack a flier at all. Ground forces with anti-air can attack fliers and deal combat damage to them as usual when they do.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Forecast X",
+            "abilityText": "Starts off in the future, not in play. Put X time runes on this and remove one each upkeep. When you remove the last, it arrives.",
+            "ruling": "When it would come into play from something other than forecast, instead it goes to the \"future\" zone and gets time runes.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Forecast X",
+            "ruling": "To play a forecasted thing from your hand, you must meet the requirements to play it, like any card. You do NOT need to meet any requirements when it later arrives / resolves. For example, playing a forecasted Future tech II unit requires a Future tech II building, then the forecasted unit goes to the future, and if your Future tech II building is destroyed before the time runes are all removed, that's fine, the Future tech II unit will still arrive when the last time rune is removed.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Forecast X",
+            "ruling": "Forecasted units do not go to Jail.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Frenzy X",
+            "abilityText": "Gets +X ATK on your turn.",
+            "ruling": "It loses the extra ATK at the end of the turn.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Frenzy X",
+            "ruling": "This does stack, so if one of your units gets frenzy 1 twice, it gets +2 ATK on your turn.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Haste",
+            "abilityText": "Can attack and exhaust the turn it arrives.",
+            "ruling": "Haste allows things that came under your control this turn use exhaust abilities, which means abilities that have exhaust as part of the cost (that is, the exhaust symbol BEFORE an arrow.) Haste also allows units and heroes to attack that came under your control this turn.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Haste",
+            "ruling": "Things do NOT need haste to become exhausted as the result of an effect. For example, you can play a unit then immediately exhaust it with Boot Camp because the exhaust is an effect there, not a cost.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Healing X",
+            "abilityText": "During your upkeep, heal X damage from all friendly units and heroes.",
+            "ruling": "Damage is always recorded on an object in the form of damage chits. Healing is able to remove those damage chits. Healing is not able to increase the maximum HP of something. Healing does not interact with -1/-1 runes, either. All it does is remove damage chits from things that have them.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Illusion",
+            "abilityText": "Illusions die when [targeted] \u0003by spells or abilities.",
+            "ruling": "Illusions die immediately if they are targeted by a spell or ability. At the moment they are targeted, they die (and go to their owner's discard pile). That means if an effect would target an illusion and deal 3 damage to it, or target it and put a rune on it, the illusion is already dead and gone before the effect happens. It never actually takes the 3 damage or gets the rune in those examples.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Illusion",
+            "ruling": "Attacking an Illusion does not automatically kill it. Illusions only immediately die if they are targeted by a spell or ability.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Illusion",
+            "ruling": "\"Illusion\" is a subtype that a unit can have, it's not an ability. That means Spectral Hound, for example, does not have any abilities if Midori's middle ability checks for things \"with no abilities\".",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Indestructible",
+            "abilityText": "If this would die, exhaust it and remove all damage and attachments from it instead. You can't sacrifice it.",
+            "ruling": "If an indestructible thing has 0 HP because of having -1/-1 runes, it will remain exhausted forever. If it gets any damage or attachments in this state, immediately remove the damage and/or attachments.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Indestructible",
+            "ruling": "Attachments are cards that attach to a unit or hero, like \"Spirit of the Panda\" or \"Entangling Vines\". Runes and other ongoing spells or effects are not attachments.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Indestructible",
+            "ruling": "Even if it has -1/-1 runes that were from something that \"dealt combat damage in the form of -1/-1 runes,\" you still don't remove them when the indestructible thing would die.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Invisible",
+            "abilityText": "To opponents without a detector, this is untargetable, unattackable, and can sneak past patrollers. While patrolling, this is attackable.",
+            "ruling": "\"Sneaking past\" means you can ignore patrollers when attacking and attack anything you want. You can also attack the patrollers if you prefer.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Invisible",
+            "ruling": "When something invisible attacks an enemy unit or hero, that enemy unit or hero DOES deal its combat damage back as usual.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Invisible",
+            "ruling": "If an opponent has the Tower add-on and their tower has already used its once-per-turn detect on something, then you attack with something invisible, the Tower will not deal its damage to your invisible thing. It would if it's once-per-turn detect hadn't been used, but it can only damage things it can see.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Invisible",
+            "ruling": "You can [target] your own invisible things whether you have a detector or not.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Long-range",
+            "abilityText": "Defenders without long-range deal no damage to this when it attacks."
+        },
+        {
+            "card": "Obliterate X",
+            "abilityText": "Whenever this attacks, destroy the defender's X lowest tech units first.",
+            "ruling": "Obliterate never targets. Having resist or being untargetable doesn't help against obliterate.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Overpower",
+            "abilityText": "Excess combat damage this would deal to a patroller hits something else this could attack.",
+            "ruling": "The excess combat damage from the first target can go to only one additional target. It can't cascade beyond that to hit even more targets.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Overpower",
+            "ruling": "The \"excess\" combat damage is the damage beyond the remaining HP of the thing you attacked. It doesn't matter if the thing actually dies or not, the damage beyond its HP is still counted as \"excess.\" For example, if you attack a 1/1 indestructible unit such as Hardened Mox with a 3/4 overpower unit such as Centaur, there is 2 excess damage even though the Mox doesn't die. That 2 excess damage can hit something else that that Centaur could have legally attacked.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Overpower",
+            "ruling": "When determining what an overpower attacker \"could have attacked\" you still obey all the normal rules of attacking. If there are any patrollers other than the one actually attacked that would have been possible for the overpower attacker to attack, the excess combat damage has to go to one of them rather than say, a tech building. If there aren't any other patrollers the overpower unit or hero could have attacked, then the excess damage can go to anything with HP that's controlled by the same player (or team in 2v2) as the patroller actually attacked.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Overpower",
+            "ruling": "Overpower does nothing when you attack a non-patroller. It also does nothing on defense (when your overpower unit or hero gets attacked).",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Overpower",
+            "ruling": "Overpower damage still counts as combat damage (it can kill Gilded Glaxx for example) and it counts as an ability (so something that has overpower cannot get +2/+2 from Midori's middle ability).",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Readiness",
+            "abilityText": "Doesn't exhaust to attack, but can only attack once per turn.",
+            "ruling": "Readiness doesn't let you ignore any other attacking rules. You still can't attack with something that's exhausted, and you still can't attack with it the turn it comes under your control (unless it also has haste.)",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Readiness",
+            "ruling": "If you attack with something that has readiness, it won't exhaust. You CAN exhaust it to pay for the cost of a spell or ability (or as an effect from a spell or ability), even though you can't attack with it again that turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Readiness",
+            "ruling": "Things with readiness can only attack once per turn, even if an effect would normally let them attack again. When cards leave play and then come back (for example, from Geiger or Pasternaak's max level abilities), they count as new objects though. So it IS possible to attack with something with readiness, have it leave play from one of those abilities, return, and if it has haste it could attack again.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Resist X",
+            "abilityText": "Opponents must pay X each time they would target this with a spell or ability.",
+            "ruling": "This has nothing to do with attacking. Opponents don't have to pay to attack something with resist, they only have to pay to target it with spells or abilities.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Resist X",
+            "ruling": "This does stack, so if one of your units gets resist 1 twice, opponents must pay 2 gold to target it with spells or abilities.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparkshot",
+            "abilityText": "When attacking a patroller, deals 1 damage to an adjacent patroller.",
+            "ruling": "Sparkshot can only hit something 1 slot over from the thing you're attacking (an adjacent slot). It can't hit something two slots away even if it's the closest patroller (that is no longer ADJACENT to the thing you're attacking).",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparkshot",
+            "ruling": "This counts as combat damage (it can kill Gilded Glaxx for example) and it counts as an ability (so something that has sparkshot cannot get +2/+2 from Midori's middle ability).",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparkshot",
+            "ruling": "Sparkshot damage is dealt simultaneously with all other combat damage.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparkshot",
+            "ruling": "Sparkshot CAN hit a flier even if the attacker with sparkshot doesn't have anti-air.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparkshot",
+            "ruling": "Sparkshot doesn't [target]."
+        },
+        {
+            "card": "Stealth",
+            "abilityText": "Can sneak past patrollers if that opponent has no detector.",
+            "ruling": "\"Sneaking past\" means you can ignore patrollers when attacking and attack anything you want. You can also attack the patrollers if you prefer.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Stealth",
+            "ruling": "When something with stealth attacks an enemy unit or hero, that enemy unit or hero DOES deal its combat damage back as usual.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Stealth",
+            "ruling": "If an opponent has the Tower add-on and their tower has already used its once-per-turn detect on something, then you attack with something that has stealth, the Tower will not deal its damage to your stealth thing. It would if it's once-per-turn detect hadn't been used, but it can only damage things it can see.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Stash",
+            "abilityText": "You may keep a card during the draw/discard step. If you do, draw one card less.",
+            "ruling": "An example of how stash works. Normally (without stash), if you have 2 cards left in hand when you reach the discard/draw phase, you'd discard both cards and then draw 4 cards (you draw 2 more than you discard). If you have stash, instead of discarding both cards, you can choose to keep one of them in your hand. If you do, you will STILL end up with 4 cards total, but you'll be drawing 3 cards rather than 4 (the 4th card is the one you kept).",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Swift Strike",
+            "abilityText": "Deals its combat damage before units and heroes without swift strike.",
+            "ruling": "Combat damage is dealt simultaneously if the attacker and the thing it's attacking both have swift strike.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Swift Strike",
+            "ruling": "If swift strike damage kills a unit or hero in combat that does not have swift strike, the non-swift strike unit or hero dies before it gets a chance to deal combat damage.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Unstoppable",
+            "abilityText": "Can ignore patrollers when attacking.",
+            "ruling": "Having a detector (or a Tower add-on) doesn't help against the unstoppable keywords. Even then, unstoppable attackers can ignore patrollers.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Untargetable",
+            "abilityText": "Can't be the [target] of spells or abilities.",
+            "ruling": "Something that's untargetable still CAN be attacked. It can even be affected by some spells and abilities, but NOT spells or abilities that use the [target] symbol.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagbearer",
+            "ruling": "Only spells and abilities that use the [target] symbol interact with a flagbearer. For example, Manufactured Truth does NOT have the [target] symbol, so it can copy a unit other than a flagbearer even if the opponent has a flagbearer.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagbearer",
+            "ruling": "This has nothing to do with attacking. The flagbearer effect only interacts with spells and abilities that use the [target] symbol, not with declaring attacks. You don't have to attack a flagbearer before you attack other things.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagbearer",
+            "ruling": "If you cannot target a flagbearer for some reason, then you don't have to and you can ignore it. For example, if a flagbearer has resist 1 (which requires you to pay 1 gold to target it) and you have 0 gold, you don't have to target it. Or in other words, if you have a spell that costs 4 and that targets, and you have exactly 4 gold, you CAN ignore a flagbearer with resist 1 because it's impossible for you to pay the resist cost in this case, and thus impossible to target the flagbearer.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagbearer",
+            "ruling": "If a spell can target multiple things, such as Ember Sparks, and it can target a flagbearer, it only needs to target that flagbearer once. For example, you might split Ember Sparks to do 1 damage to a Frog, 1 damage to a Skeleton, and 1 damage to a Flagbearer. That's legal and still obeys the flagbearer's effect. ",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "The damage dealt by the tower is considered combat damage (so if it kills a Brave Knight that counts as \"dying from combat damage\"). It also means that the damage is dealt simultaneously with other combat damage.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "If the attacker has swift strike, the tower still deals combat damage simultaneously as the swift strike. If the attacker has long-range, the tower still deals it damage to the attacker. If the attacker has flying, the tower still hits it as if it had anti-air.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "The tower deals 1 damage to attackers who are attacking ANYTHING controlled by the player (or team in 2v2) with the tower. It doesn't just trigger when they attack the tower itself.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "On an opponent's turn, your tower uses its detect ability the first time it can. For example, if the opponent attacks you with a stealth 1/1, the tower will automatically reveal it, and that attacker can't ignore your patrollers. If the opponent then attacks with an 8/8 stealth unit, the tower won't detect it because it already used its ability once that turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "If an attacker has stealth or invisible AND another evasion ability such as unstoppable, the tower will still use its once-per-turn detect so that it can deal 1 damage to the attacker. This won't prevent the atatcker from using evasion abilities such as unstoppable though, so it can still ignore patrollers when it attacks.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "If the tower already used its detect ability on an opponent's turn, then that opponent attacks with a stealth/invisible unit or hero, the tower won't hit that attacker. It won't even hit the attacker if it attacks the tower itself. In this example, the tower already used up its detect ability and it can't hit any more stealth/invisible attackers that turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "When you reveal a stealth/invisible thing with your tower, that thing stays revealed the rest of the turn. It is legal for you to cast multiple spells that target that revealed thing later that turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tower",
+            "ruling": "In free-for-all, the tower will only hit an attacker that is attacking things you control. It won't hit an attacker that is attacking things controlled by one of your opponents.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Neutral": [
+        {
+            "card": "Timely Messenger"
+        },
+        {
+            "card": "Tenderfoot"
+        },
+        {
+            "card": "Older Brother"
+        },
+        {
+            "card": "Brick Thief",
+            "ruling": "When his ability has you \"repair 1 damage from a building\", you can choose one of your own buildings that is not damaged. If you do, nothing happens to your building (your building does not get extra hit points above its max HP).",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Brick Thief",
+            "ruling": "\"Arrives or attacks:\" means you get the effect when he arrives, AND you also get the effect each time he attacks. You don't have to choose.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Helpful Turtle"
+        },
+        {
+            "card": "Granfalloon Flagbearer"
+        },
+        {
+            "card": "Fruit Ninja"
+        },
+        {
+            "card": "Spark"
+        },
+        {
+            "card": "Bloom"
+        },
+        {
+            "card": "Wither",
+            "ruling": "If you put the -1/-1 rune on an X/1 unit, that will unit will die (because it has 0 HP) even if it had armor.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Wrecking Ball"
+        },
+        {
+            "card": "The Boot",
+            "ruling": "When a unit is \"destroyed\" it will go to its owner's discard pile and also \"die\" as a consequence of that. Anything that triggers on \"dies\" such as the patrol zone's scavenger and technician slots, or a Soul Stone, will trigger.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Intimidate",
+            "ruling": "0 is the lowest ATK a unit can have.",
+            "date": "2016-03-03T08:00:00.000Z"
+        },
+        {
+            "card": "Final Smash",
+            "ruling": "You \"do as much as you can\" when playing this. For example, if there is no tech 0 in play, you still do the rest of the spell.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Final Smash",
+            "ruling": "The effects are not optional. If the only tech 0 unit in play is yours, you must destroy it. If the only tech I unit in play is yours, you must return it to its owner's hand. If the only tech II unit in play is yours, you \"gain control of it\" which does nothing.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Final Smash",
+            "ruling": "You choose targets as you resolve each part of the spell, not all at once before you do anything. That means if there's an opposing flagbearer in play that CAN be targeted by the first part of the spell (destroy a tech 0 unit) then you must target it. Then after that, if there is an opposing flagbearer that CAN be targeted by the second part of the spell (return a tech I unit to its owner's hand) AND you didn't already target it earlier in resolving this same cast of Final Smash, then you MUST target it. Then you resolve the last part of the spell (gain control of a tech II unit) and again, if there is an opposing flagbearer that you can choose AND you haven't chosen it already, then you must choose it. ",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Iron Man"
+        },
+        {
+            "card": "Revolver Ocelot"
+        },
+        {
+            "card": "Hired Stomper"
+        },
+        {
+            "card": "Regular-sized Rhinoceros"
+        },
+        {
+            "card": "Sneaky Pig"
+        },
+        {
+            "card": "Eggship"
+        },
+        {
+            "card": "Harvest Reaper"
+        },
+        {
+            "card": "Trojan Duck",
+            "ruling": "Obliterate never targets units in Codex, so it can work even on units that are untargetable. The ability that deals 4 damage to a building does target the building, which as of this ruling, doesn't matter because nothing has yet been printed that gives buildings resist or the untargetable keyword.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Trojan Duck",
+            "ruling": "\"Arrives or attacks:\" means you get the effect when it arrives, AND you also get the effect each time it attacks. You don't have to choose.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Harmony",
+            "ruling": "Harmony does not trigger itself when you play it. You have to play another spell after Harmony in order to get your first Dancer token.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Harmony",
+            "ruling": "You can't target the Dancer token Harmony summons with the very same spell that triggered Harmony. For example, if you play Bloom to give a unit +1/+1, that will cause Harmony to give you a new Dancer token, but you must completely resolve Bloom BEFORE you even get the new Dancer token.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Harmony",
+            "ruling": "If you lose your Finesse hero, that forces you to sacrifice Harmony. This does NOT count as paying the cost to \"Stop the music\" so this will not cause your Dancers to flip over to become Angry Dancers.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Harmony",
+            "ruling": "The purpose of \"stopping the music\" is to flip over any Dancers you control. Doing this transforms them to Angry Dancers.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Discord",
+            "ruling": "If a unit with only 1 HP is affected by this, it will die (because it has 0 HP) even if it had armor.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Two Step",
+            "ruling": "If a unit is already a dance partner from Two Step, you can't legally target it by playing another Two Step.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Two Step",
+            "ruling": "\"If you lose one\" means if one of your partnered units leaves play or leaves your control.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Appel Stomp",
+            "ruling": "If you choose not to put Appel Stomp on top of your draw pile, it will go to your discard pile.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Nimble Fencer",
+            "ruling": "Nimble Fencer herself is a Virtuoso, so her ability grants herself haste.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Star-Crossed Starlet",
+            "ruling": "If you have a healing effect during your upkeep from another card such as Helpful Turtle, you, as the active player, can choose the order of your upkeep effects. So you can choose to heal Star-Crossed Starlet BEFORE she takes 1 damage from her own upkeep ability in that case.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Star-Crossed Starlet",
+            "ruling": "Normally, Star-Crossed Starlet can have only 1 damage on her (and therefore +1 ATK from her ability) without dying. 2 damage is enough to kill her. But if she has a +1/+1 rune on her, for example from Bloom, then she has a total of 3 HP and can therefore have 2 damage on her (and +2 ATK from her ability) without dying.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Grounded Guide",
+            "ruling": "This effect stacks if you have two of them. For example, your Virtuosos get +4/+2 if you have two Grounded Guides.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Maestro",
+            "ruling": "As usual, you can't exhaust a unit as a cost to use its ability unless you controlled that unit at the start of your turn or if it has haste. So you had to have controlled your Virtuosos at the start of your turn in order to exhaust them to do 2 damage. It doesn't matter that they got the ability in the middle of the turn and it also doesn't matter when Maestro came under your control or if Maestro has haste.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Backstabber"
+        },
+        {
+            "card": "Cloud Sprite"
+        },
+        {
+            "card": "Leaping Lizard"
+        },
+        {
+            "card": "Blademaster",
+            "ruling": "Your units and heroes only keep swift strike from Blademaster's ability while he's still in play under your control. If he leaves play or leaves your control, he won't continue to grant swift strike.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Dancer / Angry Dancer",
+            "ruling": "When you flip over a Dancer to become an Angry Dancer (by using Harmony's sacrifice ability), this does not count as a new unit entering play. No \"arrive\" happens here. If the Dancer had any baggage, such as +1/+1 runes, an ongoing spell such as a Soul Stone or Spirit of the Panda, or damage on it, all of that will still be on it when it flips over.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Red": [
+        {
+            "card": "Nautical Dog"
+        },
+        {
+            "card": "Mad Man"
+        },
+        {
+            "card": "Bombaster"
+        },
+        {
+            "card": "Careless Musketeer"
+        },
+        {
+            "card": "Bloodrage Ogre",
+            "ruling": "He returns to your hand AFTER the draw/discard phase.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Bloodrage Ogre",
+            "ruling": "The \"End of Turn\" ability only triggers on his controller's turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Makeshift Rambaster"
+        },
+        {
+            "card": "Bloodburn",
+            "ruling": "You can't exhaust this to use the ability the turn it comes under your control because it doesn't have haste.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Scorch"
+        },
+        {
+            "card": "Charge"
+        },
+        {
+            "card": "Pillage",
+            "ruling": "If the player has less gold than you're trying to steal, steal as much as you can. You can only gain as much gold as you actually take from the other player.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Chaos Mirror",
+            "ruling": "The printed ATK means the ATK actually printed on the card. For example, a 2/3 unit has \"2\" as it's printed ATK, even if it gets a +1/+1 rune and an additional +2/+2 from Two Step.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Chaos Mirror",
+            "ruling": "Any effects that copy a unit such as Manufactured Truth, copy only the printed version of a unit, but they will respect Chaos Mirror's swap of the printed values. For example, if you have a 1/1 and an 8/8, then swap their printed ATK with Chaos Mirror (so you have an 8/1 and a 1/8) then you copy the 8/1 with Manufactured Truth, your copy will be an 8/1.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Detonate",
+            "ruling": "The point of this spell is to trash an opponent's worker or building card, but you can trash your own if you want.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Detonate",
+            "ruling": "A \"building card\" does not mean a base, an add-on (such as the Tower or Surplus), and it does not mean your tech I, II, or III buildings. It does mean building cards that you can have in your deck such as Rickety Mine, Graveyard, Firehouse, etc.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Detonate",
+            "ruling": "When you trash an opponent's worker, you don't get to choose which worker to destroy (because they're alll considered identical) and you don't get to see the front of the destroyed worker.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Surprise Attack"
+        },
+        {
+            "card": "Maximum Anarchy",
+            "ruling": "This destroys Zane himself, too.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Maximum Anarchy",
+            "ruling": "Heroes that are destroyed go to their owner's command zone. Units that die go to their owner's discard pile.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Maximum Anarchy",
+            "ruling": "When a unit or hero is \"destroyed\" it will \"die\" as a consequence of that. Anything that triggers on \"dies\" such as the patrol zone's scavenger and technician slots, or a Soul Stone, will trigger.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Calypso Vystari",
+            "ruling": "If you have not played a spell this turn, activating her ability does nothing. It will not even kill an Illusion in this case, because it doesn't target at all if you haven't played a spell.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Calypso Vystari",
+            "ruling": "A \"Spell\" says \"Spell\" on its type line. Units, heroes, buildings, upgrades, etc. are not \"spells.\"",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Gunpoint Taxman",
+            "ruling": "His ability to steal gold does nothing against an opponent that doesn't have any gold.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Disguised Monkey"
+        },
+        {
+            "card": "Chameleon Lizzo",
+            "ruling": "He returns to your hand AFTER the draw/discard phase.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Chameleon Lizzo",
+            "ruling": "He will return to your hand at the end of each turn. So if he's in play on your opponent's turn for some reason, he'll return to your hand after your opponent's draw/discard phase.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Marauder",
+            "ruling": "The point of boosting him is to trash an opponent's worker, but you could trash your own if you want.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Steam Tank"
+        },
+        {
+            "card": "Sanatorium",
+            "ruling": "When you put units into play with this ability, you don't have to pay for them and you don't have to meet the tech requirements for them either.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sanatorium",
+            "ruling": "The units gain haste and ephemeral permanently. So if they don't leave play after one turn, they'll keep trying to die every turn, and Wandering Mimic will get haste from them.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Pirate Gunship"
+        },
+        {
+            "card": "Desperation",
+            "ruling": "Desperation only draws cards if it's the only card in your hand before you play it. By the time it checks whether your hand it empty, it won't be in your hand anymore.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Desperation",
+            "ruling": "You discard your hand before the draw/discard phase. So normally you'll discard your hand, then discard 0 and draw 2.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Kidnapping",
+            "ruling": "If the unit you steal does not die (or otherwise leave play) on your turn, then whichever player you stole it from regains control of it at the end of your turn.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Kidnapping",
+            "ruling": "If the unit you steal dies while under your care, it will go to its owner's discard pile (not yours).",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Bloodlust"
+        },
+        {
+            "card": "War Drums",
+            "ruling": "Units you \"have\" refers to units you control. It does not include units you own, but that were stolen from you for some reason, and it doesn't include units that aren't in play, such as those in Jail, Graveyard, or forecasted.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Crash Bomber"
+        },
+        {
+            "card": "Rickety Mine",
+            "ruling": "You can't use the ability the turn Rickety Mine comes under your control because it doesn't have haste.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rickety Mine",
+            "ruling": "\"Phew!\" has no gameplay effect. It has a psychological effect though.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Shoddy Glider"
+        },
+        {
+            "card": "Captured Bugblatter",
+            "ruling": "In 2v2 (Two-Headed Dragon) games, each team only has one base. When Captured Bugblatter's triggers, it will deal just one damage to the other team's base.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Captured Bugblatter",
+            "ruling": "When Captured Bugblatter itself dies, its ability DOES trigger.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Crashbarrow"
+        },
+        {
+            "card": "Land Octopus",
+            "ruling": "If you choose to sacrifice workers, they are trashed. They don't go to the discard pile.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ogre Recruiter"
+        },
+        {
+            "card": "Pirate-Gang Commander"
+        },
+        {
+            "card": "Fire Dart"
+        },
+        {
+            "card": "Ember Sparks",
+            "ruling": "3 damage divided as choose means it can do a) 1 damage to three things, b) 2 damage to one thing and 1 damage to another thing, or c) 3 damage to one thing.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ember Sparks",
+            "ruling": "If you have the Hotter Fire upgrade, Ember Sparks can do a total of 4 damage, rather than 3. You can still only divide that damage amongst one, two, or three targets though (not four targets).",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flame Arrow"
+        },
+        {
+            "card": "Burning Volley",
+            "ruling": "You must assign at least 1 damage to each target, so you can choose at most five targets.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Burning Volley",
+            "ruling": "If you have the Hotter Fire upgrade, Burning Volley can do a total of 6 damage. You can then divide that damage to up to six targets.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Lobber"
+        },
+        {
+            "card": "Firebat"
+        },
+        {
+            "card": "Bamstamper Lizzo",
+            "ruling": "The effect is not optional. If the only units in play are yours, you must choose one of those. If the only unit in play is Bamstamper Lizzo himself, he deals 3 to himself and dies.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Doubleshot Archer"
+        },
+        {
+            "card": "Molting Firebird"
+        },
+        {
+            "card": "Firehouse",
+            "ruling": "You can't exhaust this to use the ability the turn it comes under your control because it doesn't have haste.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Firehouse",
+            "ruling": "Yes, you really can gun down an unlimited number of things per turn with this. When Firehouse's ability readies Firehouse, you can use it again, etc.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Firehouse",
+            "ruling": "Firehouse cannot kill an unlimited number of Illusions. If you use it on an Illusion, that Illusion will die instantly from being targeted before it takes any damage. This will NOT ready Firehouse because the \"if you destroy it this way\" clause refers to you destroying it using the 2 damage specifically.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hotter Fire",
+            "ruling": "This really does apply to all abilities that deal damage on all red cards and red spells that deal damage. For example, Molting Firebird deals 2 damage to every opposing unit if you have Hotter Fire. Zane's max level ability deals 2 damage to the patroller shoves. Jaina's max level ability deals 4 damage. Scorch deals 3 damage. Crash Bomber deals 2 damage when he dies. Careless Musketeer deals 2 damage to a unit or building AND 2 damage to your base, etc.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hotter Fire",
+            "ruling": "This does not affect any red units or heroes with abilities that simply deal combat damage. For example, it doesn't increase the damage from sparkshot, overpower, or anti-air.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hotter Fire",
+            "ruling": "If you have more than one Hotter Fire, the effects do stack.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Cinderblast Dragon",
+            "ruling": "You can play the Fire spell even if you don't have a Fire hero.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Cinderblast Dragon",
+            "ruling": "The Fire spell is played after you declare what you're attacking, but before that attack actually happens. If spell kills the thing you were attacking, you choose a new thing to attack, but this does not trigger the ability a second time that turn.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Green": [
+        {
+            "card": "Merfolk Prospector"
+        },
+        {
+            "card": "Tiger Cub"
+        },
+        {
+            "card": "Young Treant"
+        },
+        {
+            "card": "Playful Panda"
+        },
+        {
+            "card": "Ironbark Treant",
+            "ruling": "He's a 3/2 on your turn. The -2 ATK / +2 armor only happens on opponents turns and only while he's in your patrol zone. If something removes him from your patrol zone on an opponent's turn, he loses the stat adjustment.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ironbark Treant",
+            "ruling": "In a free-for-all game, if one opponent deals enough damage to remove some or all of his armor, but not kill him, he will have 2 new armor on the next opponent's turn.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spore Shambler",
+            "ruling": "Removing a +1/+1 rune can cause Spore Shambler to die if he ends up with 0 or less HP (in other words, if he has damage on him greater than or equal to his HP).",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spore Shambler",
+            "ruling": "To pay the cost of \"remove a +1/+1\" rune, you must remove the rune from Spore Shambler, not from something else.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Verdant Tree",
+            "ruling": "You can't use the exhaust ability the turn Verdant Tree comes under you control because it doesn't have haste.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Verdant Tree",
+            "ruling": "Building tech buildings instantly means it's possible to build them all in a row in one turn. For example, you could build your tech I, then immediately build your tech II, then immediately build your tech III all in the same turn. Each tech building becomes operational right as you build it, rather than at the end of your main phase.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rich Earth",
+            "ruling": "You still have to put a card from your hand into the worker zone, even though you don't have to pay gold to hire a worker.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rich Earth",
+            "ruling": "If an effect increases the cost of hiring workers, you still have to pay that cost increase. For example, if something increased the cost to hire workers by 1 for all players, you'd pay 1 to hire a worker, while players without Rich Earth would pay 2 to hire workers.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rampant Growth",
+            "ruling": "If the unit or hero has any armor left at the end of the turn, that armor disappears.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Forest's Favor"
+        },
+        {
+            "card": "Moment's Peace",
+            "ruling": "\"Can't attack you\" means can't attack anything you control. For example, can't attack your base or any of your buildings, and can't attack your heroes or units.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Moment's Peace",
+            "ruling": "In 2v2, none of the other team's units can attack units, heroes, or buildings you control, including your team's base. Opposing units can still attack units, heroes and buildings your teammate controls though, except for your team's base.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Nature Reclaims",
+            "ruling": "A \"building card\" does not mean a base, an add-on (such as the Tower or Surplus), and it does not mean your tech I, II, or III buildings. It does mean building cards that you can have in your deck such as Rickety Mine, Graveyard, Firehouse, etc.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Circle of Life",
+            "ruling": "\"One tech higher\" means that if you sacrifice a tech 0 unit, you can get a tech I unit. If you sacrifice a tech I unit, you can get a tech II unit. If you sacrifice a tech II unit, you could get a tech III unit, except actually non green tech III units exist that cost 5 or less.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Circle of Life",
+            "ruling": "\"Cost 5 or less\" refers to the printed gold cost in the upper left corner of the card. Abilities that reduce costs, such as Gigadons, aren't taken into account, so you can never get Gigadon with Circle of Life.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Final Showdown",
+            "ruling": "The Hunter tokens an opponent gets do not go to their patrol zone. That opponent will have to wait until their turn to patrol the Hunters. ",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Gemscout Owl"
+        },
+        {
+            "card": "Tiny Basilisk"
+        },
+        {
+            "card": "Chameleon"
+        },
+        {
+            "card": "Fairie Dragon",
+            "ruling": "If Fairie Dragon leaves play, units with feather runes no longer have flying and are no longer 3/1. If a Fairie Dragon later enters play, any units with a feather rune (even from a previous Fairie Dragon) will be flying and will be 3/1.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fairie Dragon",
+            "ruling": "If something such as Manufactured Truth copies a unit with a feather rune, the copy will not have the rune, will not be 3/1 and will not have flying.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Dothram Horselord",
+            "ruling": "Dothram Horselord himself counts in computing a player's total ATK.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Dothram Horselord",
+            "ruling": "***If you steal control of Dothram Horselord with Mind Control...???",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Wandering Mimic",
+            "ruling": "If you have two Mimics that have flying because a THIRD unit has flying, but then that third unit dies, both your Mimics lose flying.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Potent Basilisk"
+        },
+        {
+            "card": "Tyrannosaurus Rex",
+            "ruling": "You can destroy any two of the things listed in any combination. For example, you could destroy \"one unit and one upgrade\" or \"two workers.\"",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tyrannosaurus Rex",
+            "ruling": "Destroying a worker aways trashes it, NOT discards it.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tyrannosaurus Rex",
+            "ruling": "When you destroy an opponent's worker, you don't get to choose which worker to destroy (because they're all considered identical) and you don't get to see the front of the destroyed worker.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ferocity"
+        },
+        {
+            "card": "Behind the Ferns",
+            "ruling": "If you have Behind the Ferns and a Steam Tank (3 ATK), then attack a building with Steam Tank, it still does get stealth from Behind the Ferns. The extra ATK from Steam Tank's ability kicks in after the check that lets it sneak past patrollers.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Behind the Ferns",
+            "ruling": "Interactions between Behind the Ferns and Midori's mid-level ability (which gives +2/+2 to units without abilities) depend on the order of events. Some examples using those cards and Overeager Cadet (a 2/2 with no ability). If you pay Ferns -> Cadet -> Midori or Cadet -> Ferns -> Midori, your Overeager Cadet will be a 2/2 with stealth. That's what he is at step 2 of those examples, so at step 3 when Midori's middle ability is involved, it will not buff Cadet because at a that point, Cadet does have an ability (stealth from Behind the Ferns). Similarly if you get Midori -> Cadet -> Ferns or Cadet -> Midori -> Ferns, the Cadet will be a 4/4 before Ferns happens, so it will stay a 4/4 with no abilities. However, if you play in this order: Ferns -> Midori -> Cadet or Midori -> Ferns -> Cadet, then the cadet is arriving while both effects already exist. In these cases it is also a 4/4 with no abilities.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Murkwood Allies"
+        },
+        {
+            "card": "Feral Strike",
+            "ruling": "\"If you have tech buildings of the same tech level as them\" means that for tech 0 units you only need your base (which you always have if you haven't lost the game yet), for tech I units you have a tech I building, for tech II units you have a tech II building and for tech III units you have a tech III building. Your building does NOT need to be the same spec as the units. For example you could use Feral Strike to put two Blood tech II units into play, even of your tech II building was Growth spec.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Huntress"
+        },
+        {
+            "card": "Centaur"
+        },
+        {
+            "card": "Stalking Tiger"
+        },
+        {
+            "card": "Predator Tiger"
+        },
+        {
+            "card": "Barkcoat Bear"
+        },
+        {
+            "card": "Rampaging Elephant"
+        },
+        {
+            "card": "Gigadon",
+            "ruling": "Some abilities on cards like Insurance Agent or Garth Torken care about the cost of cards. Those abilities will always see Gigadon's cost as 9. Gigadon's ability only reduces the cost of playing it.",
+            "date": "2016-03-15T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Gigadon",
+            "ruling": "You can only reduce the gold cost of something to 0, not lower than that.",
+            "date": "2016-03-15T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Moss Ancient",
+            "ruling": "Your Squirrels only keep haste and invisible from Moss Ancient's ability while he's still in play under your control. If he leaves play or leaves your control, he won't continue to grant those abilities.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Polymorph: Squirrel",
+            "ruling": "Transforming into a Squirrel does not count as a new unit entering play. No \"arrive\" happens here. If the unit had any baggage, such as +1/+1 runes, an ongoing spell such as a Soul Stone or Spirit of the Panda, or damage on it, all of that will still be on it when it Transforms.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Polymorph: Squirrel",
+            "ruling": "Transforming the unit to a 1/1 can kill it if it already had damage on it.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Polymorph: Squirrel",
+            "ruling": "This spell can kill units that usually can't be killed. Transforming an indestructible unit or Gilded Glaxx (when you have gold in your gold pile) then dealing 1 damage to the Squirrel will kill it because the Squirrel is not indestructible and does not have Gilded Glaxx's ability.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Polymorph: Squirrel",
+            "ruling": "The transformed unit is still whatever tech level it was before.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Polymorph: Squirrel",
+            "ruling": "If something would copy the Squirrel such as Manufactured Truth, then the copy is a 1/1 Squirrel with no abilities. Usually, copying something copies the printed version of the card and does not copy any modifiers, but because Polymorph Squirrel \"transforms\" the unit, the transformed version is treated as the new thing that gets copied. If the transformed Squirrel has a +1/+1 rune and Spirit of the Panda attached, copying it will still give you only 1/1 Squirrel with no abilities.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Dinosize"
+        },
+        {
+            "card": "Spirit of the Panda"
+        },
+        {
+            "card": "Stampede",
+            "ruling": "Units that have overpower do not LOSE overpower from this spell, so a Wandering Mimic would still see those units as having the keyword. It's just that Stampedes instructions for where to send the excess damage happen, and overpower's instructions don't.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Galina Glimmer",
+            "ruling": "Galina Glimmer herself is a green unit, so she counts in the total.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Galina Glimmer",
+            "ruling": "If you have 3 green units, you still get only 1 gold, not 1.5 gold.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Giant Panda"
+        },
+        {
+            "card": "Artisan Mantis"
+        },
+        {
+            "card": "Oversized Rhinoceros"
+        },
+        {
+            "card": "Blooming Ancient"
+        },
+        {
+            "card": "Blooming Elm"
+        },
+        {
+            "card": "Might of Leaf and Claw",
+            "ruling": "Dealing 0 combat damage does not count as \"dealing combat damage.\"",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Might of Leaf and Claw",
+            "ruling": "If you deal combat damage to something's armor, that does count as \"dealing combat damage.\"",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Guargum, Eternal Sentinel",
+            "ruling": "Guargum can even play an ultimate Growth spell for free. He can play it even if you didn't control him at the start of your turn.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Blue": [
+        {
+            "card": "Building Inspector",
+            "ruling": "If you destroy an opponent's tech building, Building Inspector makes them pay 1 to rebuild it (0 + 1).",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Building Inspector",
+            "ruling": "Add-ons do count as buildings, so if the first building they build is a Tower add-on, its cost is increased by 1.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spectral Aven"
+        },
+        {
+            "card": "Bluecoat Musketeer"
+        },
+        {
+            "card": "Traffic Director"
+        },
+        {
+            "card": "Porkhand Magistrate",
+            "ruling": "He can't use his ability on himself.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Porkhand Magistrate",
+            "ruling": "He CAN use his ability on a unit or hero that's already exhausted. He CAN use it on units or heroes you control as well.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Reputable Newsman",
+            "ruling": "When Newsman leaves play, his effect ends.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Jail",
+            "ruling": "When a unit goes from hand to Jail, that unit does not \"enter play\" or arrive. It goes directly to the Jail zone and it's not considered in play. When it's released from Jail (from another unit entering), it will arrive and trigger any \"arrive\" effects at that time.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Jail",
+            "ruling": "Forecasted units don't go to Jail when played. They also don't go there when they later arrive.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Lawful Search"
+        },
+        {
+            "card": "Arrest"
+        },
+        {
+            "card": "Manufactured Truth",
+            "ruling": "Copying something copies the printed version of the card and does not copy any modifiers. For example, if you copy a 2/2 that has a +1/+1 rune on it and Spirit of the Panda attached to it, the copy will just be a 2/2.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Injunction",
+            "ruling": "If you use Injunction on an opponent's Growth tech II building, for example, this will disable any tech II units they control at that moment, even if they are of a different spec. (They might have gained control of an Anarchy tech II unit or something, or cheated in units from other specs with Feral Strike.)",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Injunction",
+            "ruling": "When you disable an opponent's tech building, they cannot build the next higher tech building until the disable ends. For example, if you disable their tech II building, they cannot build a tech III building on their next turn. If they already had a tech III building though, disabling their tech II building doesn't affect their tech III building—the tech III building continues operating normally.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Community Service",
+            "ruling": "When you put units into play with this, you don't have to pay for them and you don't have to meet the tech requirements for them either.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Jurisdiction",
+            "ruling": "If you use this to play a channeling spell such as Two Step, but you don't control the appropriate hero to channel that spell, it's immediately discarded.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Judgment Day",
+            "ruling": "When a unit is \"destroyed\" it will \"die\" as a consequence of that. Anything that triggers on \"dies\" such as the patrol zone's scavenger and technician slots, or a Soul Stone, will trigger. When units die, they go to their owner's discard pile.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Tax Collector",
+            "ruling": "His ability does nothing against an opponent that doesn't have any gold.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Scribe"
+        },
+        {
+            "card": "Drill Sergeant",
+            "ruling": "Playing a spell from your hand that summons units such as Murkwood Allies or Summon Skeletons does NOT count as \"playing a unit from your hand.\"",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagstone Spy",
+            "ruling": "His ability that steals gold can't steal any against an opponent that doesn't have any gold.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Debilitator Alpha"
+        },
+        {
+            "card": "Air Hammer"
+        },
+        {
+            "card": "Flagstone Garrison",
+            "ruling": "Playing a spell from your hand that summons units such as Murkwood Allies or Summon Skeletons does NOT count as \"playing a unit from your hand.\"",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Lawbringer Gryphon",
+            "ruling": "Your base is no longer flying if you lose Lawbringer Gryphon.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Boot Camp",
+            "ruling": "You CAN use this on something that's already exhausted. The exhaust isn't a cost here, so you do as much as you can.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Elite Training"
+        },
+        {
+            "card": "General's Hammer"
+        },
+        {
+            "card": "The Art of War"
+        },
+        {
+            "card": "Overeager Cadet"
+        },
+        {
+            "card": "Brave Knight",
+            "ruling": "Combat damage includes damage done while attacking or getting attacked while patrolling. It also includes damage from the overpower and sparkshot keywords as well as damage from the Tower add-on.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Brave Knight",
+            "ruling": "When something \"deals damage in the form of\" something else, such as -1/-1 runes from Plague Spitter, Orpal Gloor, or Poisonblade Rogue, they really did \"deal combat damage.\" Immediately after their form of damage is dealt, check if their victim would die. If yes, that victim counts as \"dying from combat damage.\" Brave Knight will return to his owner's hand in this case.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Guardian of the Gates",
+            "ruling": "Guardian of the Gates disables the unit he deals combat damage to, not himself.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Guardian of the Gates",
+            "ruling": "If Guardian of the Gates deals combat damage to a unit with armor and the armor absorbs all the damage, his ability still triggers.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If you use the ability on an Illusion, the Illusion immediately dies when targeted, never gets an insurance rune, and is thus never considered \"insured.\" You don't get gold when it dies.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If Insurance Agent dies, his effect is no longer active. The insurance rune on his target now does nothing, even if you play a new Insurance Agent. The new Insurance Agent will place a new insurance rune on something, but he won't interact with the previous rune because of the \"that unit\" phrase on the ability.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If the unit with the insurance rune leaves play without dying, you don't get the gold. For example, if it returns to someone's hand with Undo or is trashed somehow. If it's \"destroyed\" or \"sacrificed\" you do get the gold, because destroying or sacrificing a unit causes it to die.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If Plague Lab adds a second insurance rune to a unit, that doesn't let you collect insurance money twice. The insurance rune itself doesn't actually do anything—it's just a tangible marker and memory aid.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Justice Juggernaut",
+            "ruling": "If this doesn't have a crumbling rune on it and it would die, it doesn't actually die so nothing that triggers on \"dies\" will happen. For example, it won't draw a card if it \"would die\" in the technician slot, only when it really does die after it has a crumbling rune on it.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Arresting Constable"
+        },
+        {
+            "card": "Censorship Council",
+            "ruling": "The restriction doesn't apply to effects that would \"put a card into play\" such as from Feral Strike or Sanatorium.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Patriot Gryphon",
+            "ruling": "As an example, if Patriot Gryphon attacks a tech II building, he'll destroy that tech building because he deals 6 damage to it. As usual, that tech building being destroyed deals 2 damage to its controller's base. Then, because of Patriot Gryphon's ability, he'll deal an additional 6 damage to that same base.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Free Speech",
+            "ruling": "Opponents can still level up their heroes even if they are silenced. Heroes that reach the next band of levels still heal their damage even if their controller is silenced.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Free Speech",
+            "ruling": "If you use Free Speech on an opponent and that opponent plays a new hero on their next turn (in which they are still silenced), that new hero loses all abilities and can't cast spells.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Free Speech",
+            "ruling": "A hero that \"loses all abilities\" from the silence effect can't get new abilities either. For example, it can't be granted anti-air or sparkshot from Elite Training, though it can be granted +1 ATK and 1 armor from that same spell because those are stats and not \"abilities.\"",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Free Speech",
+            "ruling": "When the silence effect ends, that players heroes are now able to have abilities again. (Imagine the abilities written on their character card are erased during the silence effect, then appear again when the duration ends.)",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hallucination"
+        },
+        {
+            "card": "Dreamscape"
+        },
+        {
+            "card": "Mind Control",
+            "ruling": "If the unit dies, it and Mind Control each go to their OWNER'S discard pile. That means Mind Control probably goes to yours and the unit probably goes to an opponent's discard pile.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Mind Control",
+            "ruling": "If Mind Control is destroyed (by Nature Reclaims, for example), the unit returns to whoever controlled it before it was Mind Controlled.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Mind Control",
+            "ruling": "If you Assimilate an a Mind Control, now you control the attached unit.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spectral Flagbearer",
+            "ruling": "If you aren't able to target an opposing Flagbearer for any reason, you don't have to. That includes if the Flagbearer has \"resist 1\" and you have no gold. In that case, you can't target it with a spell or ability because you can't afford to pay the cost for resist, so you can ignore the Flagbearer and target something else.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spectral Hound"
+        },
+        {
+            "card": "Macciatus, The Whisperer"
+        },
+        {
+            "card": "Reteller of Truths",
+            "ruling": "The ability triggers from a unit dying, so it means that unit really did die. Anything that triggers from a unit dying really will trigger, such as drawing a card if the unit died when it was in the technician slot.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spectral Tiger"
+        },
+        {
+            "card": "Spectral Roc"
+        },
+        {
+            "card": "Eyes of the Chancellor"
+        },
+        {
+            "card": "Liberty Gryphon",
+            "ruling": "If you control a Liberty Gryphon and Mirror Illusion copy of Liberty Gryphon, those both have the name \"Liberty Gryphon.\" If you don't control any Illusions other than those, then your Liberty Gryphons do not get the keywords: unstoppable, unattackable, untargetable.",
+            "date": "2016-03-01T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Black": [
+        {
+            "card": "Pestering Haunt",
+            "ruling": "\"Can't be sacrificed\" means you ignore it completely when choosing things to sacrifice. If you would sacrifice your \"weakest\" thing and this is it, then you sacrifice your second weakest thing, not sacrifice nothing.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Skeleton Javelineer"
+        },
+        {
+            "card": "Poisonblade Rogue",
+            "ruling": "Even though this deals damage in the form of -1/-1 runes, it still counts as \"dealing combat damage\" and anything that checks if it died to combat damage, such as Brave Knight, see getting hit by this and immediately dying as \"dying from combat damage.\"",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Thieving Imp"
+        },
+        {
+            "card": "Jandra, the Negator",
+            "ruling": "When something \"deals damage in the form of\" something else, such as -1/-1 runes from Plague Spitter, Orpal Gloor, or Poisonblade Rogue, they really did \"deal combat damage.\" Immediately after their form of damage is dealt, check if their victim would die. If yes, that victim counts as \"dying from combat damage.\" Jandra causes you to destroy all your non-Demon units in that case.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Graveyard",
+            "ruling": "While a unit is buried in Graveyard, that unit is not in play; it's in a special Graveyard zone. It loses all properties such as attachments, +1/+1 runes, damage, etc. when it goes there. When you later play it from Graveyard, it will arrive and trigger any \"arrive\" effects at that time.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Skeletal Archery"
+        },
+        {
+            "card": "Deteriorate",
+            "ruling": "If you give -1/-1 to an X/1 unit, that will unit will die (because it has 0 HP) even if it had armor.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Summon Skeletons"
+        },
+        {
+            "card": "Sacrifice the Weak",
+            "ruling": "\"Lowest tech unit with least ATK\" means first you look at the set of units the lowest tech, such as \"tech 0.\" Tech 0 is below I is below II is below III. Next, choose the unit in that set with the least ATK.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sacrifice the Weak",
+            "ruling": "If there are any units that are indestructible or that can't be sacrificed, ignore them when looking for the weakest unit. If such a thing would be your \"weakest unit\" then instead sacrifice your next weakest.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Soul Stone",
+            "ruling": "When the attached unit \"would die,\" it doesn't actually die so things that trigger on \"dies\" such as drawing a card in the technician slot don't happen.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Soul Stone",
+            "ruling": "If you Soul Stone something with Two Lives such as Justice Juggernaut or Garus Rook, then the first time it would die, it gets a crumbling rune from the Two Lives ability instead. The second time it would die, Soul Stone's ability triggers (effectively giving it a third life)",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Dark Pact"
+        },
+        {
+            "card": "Shadow Blade",
+            "ruling": "If you destroy an Illusion because you targeted it with Shadow Blade, its controller does not discard a card.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Metamorphosis",
+            "ruling": "Heroes generally don't have types, so your Demonology hero is NOT a Demon until Metamorphosis makes her a Demon. Once she is a Demon, playing a second Metamorphosis will not affect her. If she leaves play, she stops being a Demon.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Metamorphosis",
+            "ruling": "Whenever a hero leaves play, it always loses all properties such as levels, damage on it, +1/+1 runes on it, etc. So it also loses all buffs it got from Metamorphosis.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Gargoyle"
+        },
+        {
+            "card": "Twilight Baron",
+            "ruling": "If you already have tech II units in play, it's ok to play Twilight Baron. It's just that while he is in play, you cannot play any more tech II units.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Twilight Baron",
+            "ruling": "Though you can't \"play\" tech II units, you can still \"put them into play\" by any effect that's worded that way.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Twilight Baron",
+            "ruling": "You can play tech II buildings and upgrades; those are not units.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Twilight Baron",
+            "ruling": "If a tech II unit has forecast, such as Reaver, you still can't play it while you have Twilight Baron. You can play Reaver first, then play Twilight Baron, then have Reaver's forecast ability cause it to enter play though.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Voidblocker",
+            "ruling": "If they don't have any other ready units or heroes, they can still attack Voidblocker.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Blackhand Dozer",
+            "ruling": "\"Damage you deal\" means any damage you cause to be dealt. This includes combat damage your units do and damage from spells and abilities you control. If you destroy an opponent's tech building, and it would deal 2 damage, that also won't happen if it would reduce their base to below 6 HP. \"You\" can even deal damage when it's not your turn, such as if Crash Bomber dies on another player's turn. That also can't bring an opposing base below 6 HP if you have Blackhand Dozer.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Banefire Golem"
+        },
+        {
+            "card": "Terras Q, the Shackled",
+            "ruling": "A particular copy of Terras Q is only shackled by the Warlocks that HE put into play. For example, if player1 plays Terras Q (summoning 4 warlocks) and player 2 also plays their own copy of Terras Q (which also summons 4 Warlocks), player1's Terras Q is NOT shackled by the Warlocks that player2's Terras Q summoned.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Terras Q, the Shackled",
+            "ruling": "If Terras Q leaves play and comes back, for example because of Geiger or Pasternaak's max level abilities, he comes back as a fresh copy that's treated as a totally new object. He will arrive again and summon new Warlocks, but the OLD Warlocks he summoned earlier are no longer shackling him.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Terras Q, the Shackled",
+            "ruling": "If something in play becomes a copy of Terras Q, no \"arrives\" triggers happen so he doesn't get new Warlocks. Any Warlocks already in play do NOT shackle that copy; they only shackle the specific Terras Q whose arrives trigger summoned them.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Shrine of Forbidden Knowledge",
+            "ruling": "\"Card draw +1, hand size +1\" means that instead of discarding your hand and drawing that many cards +2, capped at 5, you instead discard your hand and draw that many cards +3, capped at 6.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Zarramonde, the Obliterator"
+        },
+        {
+            "card": "Sickness",
+            "ruling": "You can target two units, two heroes, or one unit and one hero. You can also choose to have just one target if you want: just one unit or just one hero.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Spreading Plague"
+        },
+        {
+            "card": "Carrion Curse"
+        },
+        {
+            "card": "Death and Decay",
+            "ruling": "Giving -3/-3 to an X/3 unit or hero will cause it to die (because it has 0 HP) even if it had armor.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hooded Executioner",
+            "ruling": "\"Lowest tech unit with least ATK\" means first you look at the set of units the lowest tech, such as \"tech 0.\" Tech 0 is below I is below II is below III. Next, choose the unit in that set with the least ATK.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hooded Executioner",
+            "ruling": "If there are any units that are indestructible or that can't be sacrificed, ignore them when looking for the weakest unit. If such a thing would be their \"weakest unit\" then instead sacrifice their next weakest.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Bone Collector"
+        },
+        {
+            "card": "Gorgon"
+        },
+        {
+            "card": "Cursed Ghoul"
+        },
+        {
+            "card": "Cursed Crow"
+        },
+        {
+            "card": "Abomination",
+            "ruling": "Even your own units other than Abomination himself get -1/-1. If you have two Abominations, they each give the other -1/-1 and everything else -2/-2.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Plague Lab",
+            "ruling": "If a given card has two kinds of runes, Plague Lab can still only add one rune to that card. You choose which kind of rune to add from among the kinds of runes it already has.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Plague Lab",
+            "ruling": "You do not have to add any runes to any cards you don't want to add runes to.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Plague Lord",
+            "ruling": "The upkeep ability only triggers during your upkeep, not each other player's. When it triggers, even your own base takes damage if you have any -1/-1 runes on your units or heroes.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Nether Drain",
+            "ruling": "It doesn't matter if you control the heroes this this targets or not. It works on your own heroes and/or opposing heroes.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Nether Drain",
+            "ruling": "If you level up another player's hero and an ability that triggers from that requires another player to make a decision on your turn, instead that ability fizzles. For example, if you level up an opposing Necromancy hero to max level on YOUR turn, then its controller doesn't get to search their codex for a unit costing 5 or less.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Lich's Bargain",
+            "ruling": "It is legal to sacrifice one of your starting 4 or 5 workers. If you do, your worker count goes down by 1 (not by 4 or 5) and you can mark that however you want. The game will surely be over pretty quickly anyway!",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Doom Grasp",
+            "ruling": "The \"if you do\" clause is not satisfied if you try to sacrifice something that can't be sacrificed such a Gilded Glaxx that \"can't leave play.\" You can't even get close to satisfying \"if you do\" on something like Pestering Haunt or Immortal that \"can't be sacrificed\" because you can't even attempt to sacrifice those in the first place, so the \"if you do\" clause is also not satisfied.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Doom Grasp",
+            "ruling": "The \"if you do\" clause is satisfied by attempting to sacrifice something with a Soul Stone or something with Two Lives (Rook or Justice Juggernaut). In these cases, the Soul Stone will fall off and Rook or Justice Juggernaut will get a crumbling rune, then \"if you do\" is satisfied.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Death Rites"
+        },
+        {
+            "card": "Crypt Crawler"
+        },
+        {
+            "card": "Plague Spitter",
+            "ruling": "Even though this deals damage in the form of -1/-1 runes, it still counts as \"dealing combat damage\" and anything that checks if it died to combat damage, such as Brave Knight, see getting hit by this and immediately dying as \"dying from combat damage.\"",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Blackhand Resurrector",
+            "ruling": "If the hero in question is on cooldown from dying this turn or last turn, you can still summon it with this ability.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Skeletal Lord",
+            "ruling": "When you put a unit into play with this ability, you don't have to pay for it and you don't have to meet the tech requirements for it either. It even allows you to put a tech III unit into play.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Skeletal Lord",
+            "ruling": "You can pay the cost for Skeletal Lord's ability using skeletons that came under your control this turn.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Corpse Catapult"
+        },
+        {
+            "card": "Wight"
+        },
+        {
+            "card": "Necromancer"
+        },
+        {
+            "card": "Lord of Shadows",
+            "ruling": "Lord of Shadows himself is invisible because he is a black unit.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "White": [
+        {
+            "card": "Smoker",
+            "ruling": "When Smoker is targeted by something, he immediately returns to hand, even before the rest of the spell or ability that targeted him resolves.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Savior Monk"
+        },
+        {
+            "card": "Fox Viper"
+        },
+        {
+            "card": "Aged Sensei"
+        },
+        {
+            "card": "Morningstar Flagbearer"
+        },
+        {
+            "card": "Fox Primus"
+        },
+        {
+            "card": "Safe Attacking",
+            "ruling": "After your unit finishes its attack (after combat damage is dealt), it loses the armor Safe Attacking granted if it still had it.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Safe Attacking",
+            "ruling": "If something readies that unit and you attack with it a second time that turn, it will get 1 point of armor again.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sensei's Advice"
+        },
+        {
+            "card": "Grappling Hook",
+            "ruling": "Pulling a patroller to another slot means removing it from the slot its in and putting it in an empty slot in that same patrol zone. It doesn't matter if slots in between are occupied or not.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Snapback",
+            "ruling": "Whenever heroes enter a command zone, they lose all levels (become level 1) and other properties. They lose any damage on them, lose +1/+1 runes, lose any attachments, etc.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Snapback",
+            "ruling": "When Snapback returns a hero to its command zone, it cannot put that very same hero back into play unless there are no other heroes at all in that command zone.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Snapback",
+            "ruling": "When Snapback returns a hero to its command zone, it CAN return a different hero from that command zone to play, even if that different hero is currently on cooldown from dying somehow.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Martial Mastery",
+            "ruling": "You resolve a spell's effect before discarding it, so a given copy of Marital Master cannot draw itself from its own effect. The steps here are 1) discard a card (not Martial Mastery), 2) draw 2 cards, 3) look at opponent's hand, 4) discard Martial Mastery because its effect is now fully resolved.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Versatile Style"
+        },
+        {
+            "card": "Reversal"
+        },
+        {
+            "card": "True Power of Storms"
+        },
+        {
+            "card": "Rambasa Twin",
+            "ruling": "If two twins die simultaneously, the active player chooses which returns to your codex.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sparring Partner",
+            "ruling": "\"He can only spar\" means that if you use his second ability, he can still use his first ability that same turn, even though he can't attack for the rest of that turn.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Young Lightning Dragon",
+            "ruling": "You know what \"thrice-per-turn\" means. Come on now.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Focus Master",
+            "ruling": "1 deathtouch damage is exactly lethal damage. Any other amount of deathtouch damage is not.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sharpobject"
+        },
+        {
+            "card": "Focus Master",
+            "ruling": "If a patroller would take excess damage, but that damage is redirected by Overpower or Stampede, Focus Master cannot prevent any damage for that patroller.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sharpobject"
+        },
+        {
+            "card": "Vigor Adept"
+        },
+        {
+            "card": "Mind-Parry Monk",
+            "ruling": "This means that opponents can't use spells or abilities to target any units or heroes you control.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Training Grounds"
+        },
+        {
+            "card": "Hero's Monument"
+        },
+        {
+            "card": "Hidden Ninja",
+            "ruling": "***If the unit or hero has more than 4 ATK later that turn...?",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Speed of the Fox"
+        },
+        {
+            "card": "Shuriken Hail",
+            "ruling": "If this would cause simultaneous effects to happen that require some order (such as multiple units dying that have \"dies\" triggers), then you (the active player) choose the order.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fox's Den Students"
+        },
+        {
+            "card": "Inverse Power Ninja",
+            "ruling": "Each other unit or hero \"you have\" refers to units or heroes you control that are in play. It does not refer to heroes in your command zone, units in Jail or Graveyard, forecasted units, or units that you own but that an opponent now controls.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fuzz Cuddles"
+        },
+        {
+            "card": "Flying Fox"
+        },
+        {
+            "card": "Glorious Ninja"
+        },
+        {
+            "card": "Porcupine"
+        },
+        {
+            "card": "Masked Raccoon"
+        },
+        {
+            "card": "Fox's Den School"
+        },
+        {
+            "card": "Jade Fox, Den's Headmistress",
+            "ruling": "Jade Fox is a Ninja so she has flying and swift strike.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Jade Fox, Den's Headmistress",
+            "ruling": "Thought Setsuki is the Ninjutsu hero, she does not have the type \"Ninja\" on her card, so she does not get buffed by Jade Fox.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Bird's Nest",
+            "ruling": "If you have two Bird's Nests, you can still only have two Bird tokens in play. Each Nest sees 2 birds in play, knows that's the limit, and refuses to put more into play.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Bird's Nest",
+            "ruling": "If you have Birds in play, then lose Bird's Nest, that doesn't cause you to lose your Birds.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Entangling Vines"
+        },
+        {
+            "card": "Thunderclap",
+            "ruling": "Tokens count as cost 0, so this does work on token units.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Earthquake"
+        },
+        {
+            "card": "Mythmaking"
+        },
+        {
+            "card": "Ardra's Boulder"
+        },
+        {
+            "card": "Doubling Barbarbarian"
+        },
+        {
+            "card": "Whitestar Grappler"
+        },
+        {
+            "card": "Colossus"
+        },
+        {
+            "card": "Jefferson DeGrey, Ghostly Diplomat"
+        },
+        {
+            "card": "Morningstar Pass"
+        },
+        {
+            "card": "Oathkeeper of Kor Mountain",
+            "ruling": "If you choose the first oath, you can still \"put cards into play\" with an effect that has that wording, such as Sanatorium, without breaking the oath.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Oathkeeper of Kor Mountain",
+            "ruling": "Choosing the second oath means that instead of discarding your hand and drawing new cards during the discard/draw phase, you simply keep your same remaining cards in hand for the next turn.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Purple": [
+        {
+            "card": "Neo Plexus"
+        },
+        {
+            "card": "Plasmodium"
+        },
+        {
+            "card": "Nullcraft",
+            "ruling": "\"Buff or Debuff\" spells are spells that have the subtype \"Buff\" or \"Debuff\" (or both!).",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fading Argonaut"
+        },
+        {
+            "card": "Tinkerer",
+            "ruling": "You can add or remove time runes from things opponents control, if you want.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hardened Mox"
+        },
+        {
+            "card": "Battle Suits"
+        },
+        {
+            "card": "Time Spiral",
+            "ruling": "You can add or remove time runes from things opponents control, if you want.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Temporal Research",
+            "ruling": "The time runes on your forecasted cards count too, even though those are \"in the future\" and not in play. Time runes from fading or from Tricycloid also count.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Temporal Research",
+            "ruling": "You resolve a spell's effect before discarding it, so Temporal Research cannot draw itself from its own effect. You first draw cards from Temporal Research's effect, and you reshuffle your discard pile into your draw pile if you would draw from empty draw pile. Then, you discard Temporal Research when you have finished resolving its effect.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Forgotten Fighter"
+        },
+        {
+            "card": "Vortoss Emblem",
+            "ruling": "You can attach this to an enemy unit. If you do, you still control Vortoss Emblem itself, so the time runes on it still count toward your Temporal Research.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Undo",
+            "ruling": "This doesn't cause the unit to \"die\", so the opponent won't draw a card if it was in the technician slot.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Origin Story",
+            "ruling": "Whenever heroes enter a command zone, they lose all levels (become level 1) and other properties. They lose any damage on them, lose +1/+1 runes, lose any attachments, etc.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rewind",
+            "ruling": "This doesn't cause the units to \"die\", so the opponent won't draw a card if a returned unit was in the technician slot.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Seer",
+            "ruling": "You can add or remove time runes from things opponents control, if you want.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Stewardess of the Undone",
+            "ruling": "This doesn't cause the unit to \"die\", so the opponent won't draw a card if it was in the technician slot.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Shimmer Ray"
+        },
+        {
+            "card": "Yesterday's Golgort",
+            "ruling": "The Golgort's ability to gain a time rune triggers even if \"you\" deal combat damage to a building with another unit, or with a hero. It doesn't have to be with the Golgort itself.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rememberer",
+            "ruling": "When you \"return a unit with fading to play\" this way, you don't pay for it.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rememberer",
+            "ruling": "If the reason you remove a time rune from Rememberer isn't because of the fading ability, but rather something else such as Time Spiral, Seer, or Tinkerer, then Remember's ability to give you a unit with fading from your discard pile still DOES trigger.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rememberer",
+            "ruling": "If you have just one Rememberer and you remove the last time rune, you CAN return her to play with her own ability. In this situation, the \"dies from fading\" effect and the \"remember\" ability trigger simultaneously, so as the active player you can choose the order.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Rememberer",
+            "ruling": "You CAN return a tech III unit to play with this (for free!) but in order to do so, you must have the appropriate spec tech III building fully constructed.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Second Chances",
+            "ruling": "When this returns a unit to play, it returns in a \"fresh\" state. It's a new object, and no longer has any properties of the old object such as +1/+1 runes, damage, being a dance partner from Two Step, etc. It also returns ready (not exhausted) and it can't attack or use exhaust abilities unless it has haste.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Second Chances",
+            "ruling": "This does trigger on opponent's turns. So it can trigger once on your own turn, again on an opponent's turn, then again when it's your following turn, etc.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Second Chances",
+            "ruling": "If you steal a unit with Kidnapping, and this would then \"return it to play,\" it returns under your control, not the original owner's control. \"Return\" effects check the last controller, rather than the owner.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Second Chances",
+            "ruling": "If one of your TOKEN units leaves play, then it's destroyed as usual. (Tokens can't go to other zones than in play.) This does not use up the \"once-per-turn\" of Second Chances, so Second Chances will still trigger later than turn if one of your non-token units dies from something other than combat damage.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Second Chances",
+            "ruling": "The sparkshot ability and the Tower add-on deal combat damage, so if these kill one of your units, Second Chances won't save it. Second Chances will save units affected by Undo, Rewind, Doom Grasp (whether it was the sacrifice effect OR destroy effect!), Hooded Executioner's ability, the obliterate ability, damage from Flame Arrow or Shadow Blade, to name a few.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Slow-Time Generator",
+            "ruling": "For example, if a player had 7 workers, they would get a total of 4 gold from their workers, rather than 7 gold.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ebbflow Archon"
+        },
+        {
+            "card": "Temporal Distortion",
+            "ruling": "The \"if you do\" clause of Temporal Distortion is not satisfied if you try to return a unit to your hand, but it can't be returned, such as a Gilded Glaxx that \"can't leave play.\"",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Temporal Distortion",
+            "ruling": "If you try to return a token unit to your hand, it will be destroyed as it would go into your hand, but the \"if you do\" clause of Temporal Distortion is satisfied. You really can still put a unit from your codex into play. Tokens are tech 0, so this would normally be useless because your codex doesn't have tech 0 cards in it. It is possible to get some use out of this if you have a token that is no longer tech 0 due to a copy effect though. For example, you could use Manufactured Truth to turn one of your tokens into a tech I unit that's in play, then play Temporal Distortion on that token, and you will be able to get a tech I unit from your codex.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Now!"
+        },
+        {
+            "card": "Ready or Not",
+            "ruling": "Readying one of your units CAN allow it to attack twice in a turn. (Attack with a unit, which will exhaust it. Play Ready or Not on that unit to ready it, then you can attack with it again.)",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Research & Development",
+            "ruling": "You resolve a spell's effect before discarding it, so a given copy of Research & Development cannot draw itself from its own effect. You first draw cards from its effect, and you reshuffle your discard pile into your draw pile if you would draw from empty draw pile. Then, you discard Research & Development when you have finished resolving its effect.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Research & Development",
+            "ruling": "As a gamewide rule, you can only reshuffle your discard pile into your draw pile once per main phase. The help text on this card is there because it's very possible to \"try\" to do it more times using this card. If drawing cards during your main phase causes you to reshuffle your discard pile into your draw pile once, then later that same main phase you would draw when you have an empty draw pile, instead you don't. You can't draw any more cards until your draw/discard step.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Argonaut"
+        },
+        {
+            "card": "Sentry",
+            "ruling": "The damage done by the sparkshot ability and by the Tower add-on are both combat damage. But they are also both \"abilities\" so Sentry CAN prevent their damage.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Chronofixer"
+        },
+        {
+            "card": "Hyperion"
+        },
+        {
+            "card": "Warp Gate Disciple",
+            "ruling": "When you put units into play with this ability, you don't have to pay for them and you don't have to meet the tech requirements for them either, so you can still do it even if you don't have a tech I or II building at all.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Immortal"
+        },
+        {
+            "card": "Tricycloid",
+            "ruling": "Whenever anything leaves play then comes back into play, it's treated as a fresh copy. So if this is trashed then returns to play with Geiger's or Pasternaak's max level abilities, it will get three new time runes when it returns. Also, if you can return it to your hand with Temporal Distortion, then replay it to have it arrive with three new times runes as well.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Octavian"
+        },
+        {
+            "card": "Promise of Payment"
+        },
+        {
+            "card": "Unphase"
+        },
+        {
+            "card": "Assimilate",
+            "ruling": "You gain control of the card as long as it remains in play, for the rest of the game. If it's destroyed, it will go to its owner's discard pile, not (necessarily) yours. If something \"returns\" it to play such as Geiger or Pasternaak's max level abilities, it \"returns\" to play under your control because you were the one who last controlled it.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Assimilate",
+            "ruling": "A \"building card\" does not mean a base, an add-on (such as the Tower or Surplus), and it does not mean your tech I, II, or III buildings. It does mean building cards that players can have in their decks such as Rickety Mine, Graveyard, Firehouse, etc.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Assimilate",
+            "ruling": "If an enemy unit has Spirit of the Panda attached and you Assimilate Spirit of the Panda, you now control it. It remains attached to the enemy unit and that unit still gets +2/+2. But now whenever it attacks, YOU get 1 gold and during YOUR upkeep, YOU get the Healing 1 effect.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Assimilate",
+            "ruling": "If you use this to steal an ongoing channeling spell such as Two Step, but you don't control the appropriate hero to channel that spell, it's immediately discarded.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Double Time",
+            "ruling": "If you would take multiple extra turns, they do stack so you can potentially take 3 turns in a row.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Knight of the Conclave"
+        },
+        {
+            "card": "Gilded Glaxx",
+            "ruling": "You only check if he \"died from combat damage\" when combat damage is actually dealt to him, not at other times. For example, if the Sickness spell puts a -1/-1 rune on him (that's not combat damage) and this causes him to have 0 HP, he will not die. The next time he is dealt combat damage by something though, he WILL die. So the steps are 1) was any combat damage dealt to him? 2) if yes, then see if he has 0 HP or less, 3) if yes, then he dies.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Gilded Glaxx",
+            "ruling": "If something \"deals combat damage in the form of\" something else, such as Plague Spitter, Poisonblade Rogue, or Orpal Gloor, then that CAN count as Glaxx \"dying from combat damage\". After those things deal combat damage (in the form of -1/-1 runes or whatever else), check if Glaxx has 0 or less HP to see if he dies.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Gilded Glaxx",
+            "ruling": "If Glaxx has 0 or less HP, and he has 1 point of armor, then he takes 1 combat damage, he doesn't die, unless it was 1 point of damage from something with deathtouch, then he does die. Damage that merely removes armor doesn't quality as \"dying to combat damage\" but deathtouch specifically says that deathtouch-type combat damage DOES kill things merely by hitting their armor.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Omegacron",
+            "ruling": "Sacrificed units and upgrades always go to their owner's discard pile. Sacrificed workers are always trashed. Sacrificed heroes always go to their owner's command zone.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Reaver",
+            "ruling": "If you choose the to \"Deal 6 damage to up to 2 units and/or heroes\", that means you can hit two units for 6 damage each, two heroes for 6 damage each, or one unit for 6 damage AND one hero for 6 damage. You could also choose to hit just one thing if you want: one unit for 6 damage or one hero for 6 damage.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Reaver",
+            "ruling": "When you trash an opponent's worker, you don't get to choose which worker to destroy (because they're alll considered identical) and you don't get to see the front of the destroyed worker.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Void Star"
+        },
+        {
+            "card": "Xenostalker",
+            "ruling": "If multiple patrollers die simultaneously and the order they die would matter for some reason, then you as the active player choose that order.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hive",
+            "ruling": "If you have two Hives, you can have up to 10 Stingers.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Hive",
+            "ruling": "If you have two Hives and more than 5 Stingers and you lose a Hive, the active player chooses which 5 Stingers you sacrifice.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Nebula",
+            "ruling": "You can use the ability the turn Nebula arrives because it doesn't have exhaust as part of the cost.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ],
+    "Heroes": [
+        {
+            "card": "Troq Bashar",
+            "ruling": "When Troq attacks something, his middle ability is saying to deal 1 damage to the base controlled by the same player who controls the thing he's attacking.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "River Montoya",
+            "ruling": "You can only reduce the gold cost of something to 0, not lower than that.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Captain Zane",
+            "ruling": "Zane's middle ability requires ZANE to kill a scavenger or technician to get a bonus. If Zane himself kills them in combat or if Zane uses the damage from his max level ability, that counts. If another unit or hero kills them, or if Zane uses a spell to kill them, that does not count.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Captain Zane",
+            "ruling": "Shoving a patroller to another slot means removing it from the slot its in and putting it in an empty slot in that same patrol zone. It doesn't matter if slots in between are occupied or not.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Captain Zane",
+            "ruling": "If all of an opponent's patrol slots are full, there's nowhere to shove a patroller. If you try, it won't go anywhere but you'll still deal 1 damage to it because of the \"do as much as you can\" rule.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Drakk Ramhorn",
+            "ruling": "If a unit arrives from your hand, then after that you control a max level Drakk, then another unit arrives from your hand, NEITHER of those units will get haste from Drakk's max level ability. The second one won't because his ability only ever cares about the first unit per turn that arrives from your hand. The first one in this example also doesn't because you didn't have a max level Drakk when you played that unit, and Drakk's ability can't retroactively grant haste to units you played earlier in the turn.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Drakk Ramhorn",
+            "ruling": "There are many ways to get units other than \"arriving from your hand.\" If you play a spell from your hand that summons units, such as Murkwood Allies, that does not count as the unit \"arriving from your hand.\" If you play a unit and it goes to an opponent's Jail, then play another unit so your first unit arrives from Jail, it never \"arrived from your hand.\" If you play a forecasted unit, it goes to the future, then it later arrives from that zone, so it never \"arrived from your hand\" either. You can get units in these various ways and still have Drakk's max level ability trigger that turn once you finally have a unit actually arrive from your hand for the first time that turn.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Drakk Ramhorn",
+            "ruling": "Though the unit must \"arrive from your hand\" to benefit from Drakk's max level ability, it doesn't have to be PLAYED from hand. Feral Strike and Skeletal Lord's ability, for example, \"put something into play\" from your hand. Even though that's different from \"playing\" those things, Drakk's ability still does work because they \"arrived from your hand.\"",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Drakk Ramhorn",
+            "ruling": "In 2v2 (Two-Headed Dragon) games, each team only has one base. If Draak dies, he'll deal just one damage to the other team's base.",
+            "date": "2016-03-03T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Jaina Stormborne"
+        },
+        {
+            "card": "Master Midori",
+            "ruling": "\"Units with no abilities\" means units that don't have any ability text at all. Keywords such as haste, swift strike, resist 1, frenzy 1, etc. do count as abilities. If an effect changes a units stats, such as giving it +1/+1, that does not count as an ability. If a unit has damage on it, or +1/+1 runes, or any other type of rune, that does not count as having an ability. Illusions have the property that they die when they are targeted, but they have no actual ability saying this (just help text), so an Illusion with no ability does get Midori's bonus.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Master Midori",
+            "ruling": "If a unit gets an ability, such as Calamandra giving it resist 1, then it loses +2/+2 from Midori. This could cause it to die if it then has 0 or less HP.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Master Midori",
+            "ruling": "Units do not lose the benefit of Midori's midband ability for being in any patrol slot.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Master Midori",
+            "ruling": "You can only reduce the gold cost of something to 0, not lower than that.",
+            "date": "2016-03-15T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Calamandra Moss",
+            "ruling": "When her max level ability \"puts a Tiger into play,\" that means you don't pay for the Tiger and you don't have to have the appropriate tech building for it either.",
+            "date": "2016-03-04T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Argagarg Garg"
+        },
+        {
+            "card": "Bigby Hayes",
+            "ruling": "An example of how stash works. Normally (without stash), if you have 2 cards left in hand when you reach the discard/draw phase, you'd discard both cards and then draw 4 cards (you draw 2 more than you discard). If you have stash, instead of discarding both cards, you can choose to keep one of them in your hand. If you do, you will STILL end up with 4 cards total, but you'll be drawing 3 cards rather than 4 (the 4th card is the one you kept).",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "General Onimaru"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "Copying something copies the printed version of the card and does not copy any modifiers. For example, if you copy a 2/2 that has a +1/+1 rune on it and Spirit of the Panda attached to it, the copy will just be a 2/2.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "If an effect changes the \"printed\" values of a card, though, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "For both middle ability and max level ability, the copy is an Illusion. That means, for example, if you copy a unit of type Squirrel or Mystic then the copy will be an Illusion Squirrel or an Illusion Mystic. It will still count as a Squirrel or Mystic, and it also counts as an Illusion. Because it's an Illusion, it dies if its targeted.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "If you use the middle ability or max level ability to make of your Mirror Illusions a copy of something else, you can't use either of those abilities again the same turn on that same Illusion. The reason is that the ability refers to your \"Mirror Illusion\" but after your Mirror Illusion copies a Squirrel, for example, you have an Illusion Squirrel, not a Mirror Illusion. You can use these abilities on ANOTHER Mirror Illusion you control though.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "Mirror Illusions that are copying something else DO still count toward your limit of 2 Mirror Illusion tokens.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "The max level ability says that when you use it to make one of your Mirror Illusions copy something, you must trash it when Quince or the thing it copied leaves. This does NOT have anything to do with Mirror Illusions that have not yet copied anything. Mirror Illusions that haven't copied anything do NOT get trashed when Quince leaves.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "Quince's middle ability trashes the Mirror Illusion only once at the end of the turn you use the ability.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Sirus Quince",
+            "ruling": "Quince's max level ability can try to trash the Mirror Illusion two times, once when Quince leaves and once when the unit copied by the Mirror Illusion leaves.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Vandy Anadrose",
+            "ruling": "The max level ability is not optional, so you must try to do as much as you can when she reaches max level. If you don't have a friendly tech 0 or I unit, you still must try to give the bonus to an opposing tech 0 or I unit, and vice versa.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Vandy Anadrose",
+            "ruling": "The units targeted by the max level ability will still lose the bonus and die during Vandy's owner's next upkeep, even if Vandy isn't around.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Orpal Gloor",
+            "ruling": "Even though this deals damage in the form of -1/-1 runes, it still counts as \"dealing combat damage\" and anything that checks if it died to combat damage, such as Brave Knight, see getting hit by this and immediately dying as \"dying from combat damage.\"",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Garth Torken",
+            "ruling": "\"Meeting the tech reqs for it\" means that you control the correct tech building. For example, if you want to put a Disease tech II unit into play using the max level ability, you must have a Disease tech II building.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Garth Torken",
+            "ruling": "When you put a unit into play using the max level ability, you don't pay for the unit.",
+            "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Grave Stormborne",
+            "ruling": "You can't activate his max level ability while attacking and he can't attack if he's exhausted. So if you want to attack and use his ability in the same turn, you generally have to attack first, and then use his ability after he finishes attacking. If he can't survive an attack, you'll have to pick which one you want to do.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Setsuki Hiruki",
+            "ruling": "It's ok to have more than 5 cards in your hand. When you reach the discard/draw phase, you'll still have to discard your hand, and draw that many cards + 2, capped at 5.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Garus Rook",
+            "ruling": "If this doesn't have a crumbling rune on it and it would die, it doesn't actually die so nothing that triggers on \"dies\" will happen. For example, it won't draw a card if it \"would die\" in the technician slot, only when it really does die after it has a crumbling rune on it.",
+            "date": "2016-03-09T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Prynn Pasternaak",
+            "ruling": "She fades away when her last time rune is removed for any reason. Removing the last rune with the Time Spiral spell or her own max level ability will cause her to die.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Prynn Pasternaak",
+            "ruling": "\"Dies from fading\" means that the last time rune she had was removed because the fading ability said to do that during the upkeep. It doesn't trigger if something else removed her last time rune.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Prynn Pasternaak",
+            "ruling": "If she has exactly two time runes, she CAN use her max level ability to trash a unit. If she does, she then immediately dies from fading, then the trashed unit returns to play.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Prynn Pasternaak",
+            "ruling": "When her max level ability returns a unit to play, it returns under the control of whoever controlled it when it was trashed.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Prynn Pasternaak",
+            "ruling": "When her max level ability returns a unit to play, it returns in a \"fresh\" state. It's a new object, and no longer has any properties of the old object such as +1/+1 runes, damage, being a dance partner from Two Step, etc. It also returns ready (not exhausted) and it can't attack or use exhaust abilities unless it has haste.",
+            "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Max Geiger",
+            "ruling": "When his max level ability returns a unit to play, it returns under the control of whoever controlled it when it was trashed.",
+            "date": "2016-03-14T07:00:00.000Z",
+            "author": "sharpo"
+        },
+        {
+            "card": "Max Geiger",
+            "ruling": "When his max level ability returns a unit to play, it returns in a \"fresh\" state. It's a new object, and no longer has any properties of the old object such as +1/+1 runes, damage, being a dance partner from Two Step, etc. It also returns ready (not exhausted) and it can't attack or use exhaust abilities unless it has haste.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Vir Garbarean",
+            "ruling": "If you have no draw pile, looking at the top card of your draw pile does nothing. It does NOT cause you to shuffle your discard pile into your draw pile.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Vir Garbarean",
+            "ruling": "If you have no draw pile, you can't \"exchange the top card of your draw pile with a card from your hand.\" Nothing happens.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Vir Garbarean",
+            "ruling": "The max level ability summons a Mech token that has two time runes on it. Remove one time rune each of your upkeeps. When you remove the last, th Mech arrives. The Mech does not have haste so it can't attack the turn it arrives.",
+            "date": "2016-03-11T08:00:00.000Z",
+            "author": "Sirlin"
+        }
+    ]
+}
