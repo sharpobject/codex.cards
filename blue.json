@@ -91,7 +91,7 @@
     },
     {
         "filename": "law_tech2_a.jpg",
-        "sirlins_filename": "0033_guardian_of_the_gates.jpg",
+        "sirlins_filename": "0028_drill_sergeant.jpg",
         "name": "Drill Sergeant",
         "starting_zone": "codex",
         "color": "Blue",
@@ -109,7 +109,7 @@
     },
     {
         "filename": "law_tech2_b.jpg",
-        "sirlins_filename": "0034_insurance_agent.jpg",
+        "sirlins_filename": "0029_flagstone_spy.jpg",
         "name": "Flagstone Spy",
         "starting_zone": "codex",
         "color": "Blue",
@@ -127,7 +127,7 @@
     },
     {
         "filename": "law_tech2_c.jpg",
-        "sirlins_filename": "0035_justice_juggernaut.jpg",
+        "sirlins_filename": "0030_debilitator_alpha.jpg",
         "name": "Debilitator Alpha",
         "starting_zone": "codex",
         "color": "Blue",
@@ -144,7 +144,7 @@
     },
     {
         "filename": "law_tech2_d.jpg",
-        "sirlins_filename": "0036_arresting_constable.jpg",
+        "sirlins_filename": "0031_air_hammer.jpg",
         "name": "Air Hammer",
         "starting_zone": "codex",
         "color": "Blue",
@@ -162,7 +162,7 @@
     },
     {
         "filename": "law_tech2_e.jpg",
-        "sirlins_filename": "0037_censorship_council.jpg",
+        "sirlins_filename": "0032_flagstone_garrison.jpg",
         "name": "Flagstone Garrison",
         "starting_zone": "codex",
         "color": "Blue",
@@ -286,7 +286,7 @@
     },
     {
         "filename": "peace_tech2_a.jpg",
-        "sirlins_filename": "0028_drill_sergeant.jpg",
+        "sirlins_filename": "0033_guardian_of_the_gates.jpg",
         "name": "Guardian of the Gates",
         "starting_zone": "codex",
         "color": "Blue",
@@ -304,7 +304,7 @@
     },
     {
         "filename": "peace_tech2_b.jpg",
-        "sirlins_filename": "0029_flagstone_spy.jpg",
+        "sirlins_filename": "0034_insurance_agent.jpg",
         "name": "Insurance Agent",
         "starting_zone": "codex",
         "color": "Blue",
@@ -321,7 +321,7 @@
     },
     {
         "filename": "peace_tech2_c.jpg",
-        "sirlins_filename": "0030_debilitator_alpha.jpg",
+        "sirlins_filename": "0035_justice_juggernaut.jpg",
         "name": "Justice Juggernaut",
         "starting_zone": "codex",
         "color": "Blue",
@@ -339,7 +339,7 @@
     },
     {
         "filename": "peace_tech2_d.jpg",
-        "sirlins_filename": "0031_air_hammer.jpg",
+        "sirlins_filename": "0036_arresting_constable.jpg",
         "name": "Arresting Constable",
         "starting_zone": "codex",
         "color": "Blue",
@@ -356,7 +356,7 @@
     },
     {
         "filename": "peace_tech2_e.jpg",
-        "sirlins_filename": "0032_flagstone_garrison.jpg",
+        "sirlins_filename": "0037_censorship_council.jpg",
         "name": "Censorship Council",
         "starting_zone": "codex",
         "color": "Blue",

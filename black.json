@@ -257,7 +257,7 @@
     },
     {
         "filename": "disease_tech1_a.jpg",
-        "sirlins_filename": "0026_crypt_crawler.jpg",
+        "sirlins_filename": "0024_hooded_executioner.jpg",
         "name": "Hooded Executioner",
         "starting_zone": "codex",
         "color": "Black",
@@ -275,7 +275,7 @@
     },
     {
         "filename": "disease_tech1_b.jpg",
-        "sirlins_filename": "0027_plague_spitter.jpg",
+        "sirlins_filename": "0025_bone_collector.jpg",
         "name": "Bone Collector",
         "starting_zone": "codex",
         "color": "Black",
@@ -454,7 +454,7 @@
     },
     {
         "filename": "necromancy_tech1_a.jpg",
-        "sirlins_filename": "0024_hooded_executioner.jpg",
+        "sirlins_filename": "0026_crypt_crawler.jpg",
         "name": "Crypt Crawler",
         "starting_zone": "codex",
         "color": "Black",
@@ -472,7 +472,7 @@
     },
     {
         "filename": "necromancy_tech1_b.jpg",
-        "sirlins_filename": "0025_bone_collector.jpg",
+        "sirlins_filename": "0027_plague_spitter.jpg",
         "name": "Plague Spitter",
         "starting_zone": "codex",
         "color": "Black",
