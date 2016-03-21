@@ -51,7 +51,7 @@ local used_names = {}
 for _,name in pairs(filenames) do
   local cards = json.decode(file_contents(name..".json"))
   for _,card in pairs(cards) do
-    if not used_names[card.name] then
+    if card.sirlins_filename and not used_names[card.name] then
       codex_cards[#codex_cards+1] = card
       used_names[card.name] = true
     end
@@ -382,8 +382,8 @@ function ass(card) return [[<html lang="en"><head>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="margin: 0 0 0.5em 0;">
   <tbody><tr>
-    <td width="312" valign="top">
-      <img src="/static/]]..card.filename..[[" alt="]]..card.name..[[" width="312" height="445">
+    <td width="330" valign="top">
+      <img src="/static/]]..card.sirlins_filename..[[" alt="]]..card.name..[[" width="330" height="450">
     </td>
     <td valign="top" style="padding: 0.5em;" width="100%">
       <span style="font-size: 1.5em;">
