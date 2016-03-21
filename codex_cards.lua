@@ -17,7 +17,6 @@ local all_rulings = json.decode(file_contents("rulings.json"))
 local name_to_rulings = {}
 for _,rulings_sheet in pairs(all_rulings) do
   for _,ruling in pairs(rulings_sheet) do
-    print(json.encode(ruling))
     if name_to_rulings[ruling.card] == nil then name_to_rulings[ruling.card] = {} end
     local t = name_to_rulings[ruling.card]
     if ruling.ruling then
@@ -58,19 +57,21 @@ for _,name in pairs(filenames) do
   end
 end
 
-for _,card in pairs(codex_cards) do
-  card.url = "/" .. short_colors[card.color] .. "/"
-  if card.spec then
-    card.url = card.url .. short_specs[card.spec] .. "/"
+for color, specs in pairs(color_to_specs) do
+  codex_cards[#codex_cards+1] = {type="Color", name=color, color=color, fake=true}
+  for _, spec in pairs(specs) do
+    codex_cards[#codex_cards+1] = {type="Spec", name=spec, color=color, spec=spec, fake=true}
   end
-  card.url = card.url .. card.name:lower():gsub("[^%a]+", "_")
-  card.rulings = name_to_rulings[card.name] or {}
 end
 
-for color, specs in pairs(color_to_specs) do
-  codex_cards[#codex_cards+1] = {type="Color", name=color}
-  for _, spec in pairs(specs) do
-    codex_cards[#codex_cards+1] = {type="Spec", name=spec}
+for _,card in pairs(codex_cards) do
+  card.url = "/" .. card.color:lower()
+  if card.spec then
+    card.url = card.url .. "/" .. card.spec:lower()
+  end
+  if not card.fake then
+    card.url = card.url .. "/" .. card.name:lower():gsub("[^%a]+", "_")
+    card.rulings = name_to_rulings[card.name] or {}
   end
 end
 
@@ -133,6 +134,11 @@ function card_name_for_list(card)
 end
 
 function compare_cards(a,b)
+  if (a.spec or b.spec) and a.spec ~= b.spec then
+    if b.spec == "Future" then return true end
+    if a.spec == "Future" then return false end
+    return (a.spec or "Aaaaaaa") < (b.spec or "Aaaaaaa")
+  end
   local na, nb = card_to_int_for_sort(a), card_to_int_for_sort(b)
   if na ~= nb then
     return na < nb
@@ -321,7 +327,72 @@ function format_rulings(card)
   return table.concat(ret)
 end
 
-function ass(card) return [[<html lang="en"><head>
+function format_card_list(spec)
+  local ok = function(card) return card.color == spec.color end
+  if spec.spec then
+    ok = function(card) return card.spec == spec.spec end
+  end
+  local cards = {}
+  for _,card in pairs(codex_cards) do
+    if ok(card) and not card.fake then
+      cards[#cards+1] = card
+    end
+  end
+  table.sort(cards, compare_cards)
+  local ret = {}
+  for _,card in ipairs(cards) do
+    ret[#ret+1] = [[<a href="]]..card.url..[["><img src="/static/]]..card.sirlins_filename..
+        [[" alt="]]..card.name..[[" width="330" height="450"></a>]]
+  end
+  return table.concat(ret)
+end
+
+function cardlist(card)
+return [[<html lang="en"><head>
+  
+<meta charset="UTF-8">  
+  <title>]]..card.name..[[</title>
+  <style type="text/css">
+   <!--
+    body {background: #fafafa url(http://magiccards.info/images/bg.gif) repeat-x;margin: 1em 1.5em;}
+    body,td,th {font: 0.9em/1.2em Verdana;color: #444;}
+    th {text-align: left; font-weight: bold;}
+    p {margin: 0.5em 0;}
+    a {color: #4666BC;}
+    a:hover {color: #333;background-color: #ff0;}
+    a:active {text-decoration: none;}
+    a:visited {color: #283C71;}
+    p.ctext {background-color: #fff;padding: 4px;}
+    p.otext {background-color: #fff;padding: 4px;}
+    div.oo {margin-left: 0em; padding: 0.5em 0 0 0; border: 1px solid #bbb; font-size: 75%;line-height: 100%;}
+    div.oo span {padding: 4px;}
+    div.oo p {margin: 0.5em 0 0 0;}
+    tr.odd {background-color: #e0e0e0;}
+    tr.even {background-color: #fafafa;}
+    span.missing {color: #aaa;font-weight:bold;font-style:italic;}
+    dt {font-weight: bold; font-size: 110%; margin: 1em 0 0.5em 0;}
+    table#nav {font-size: 90%;}
+    ul {padding-left: 2em;}
+    .flag {vertical-align:-10%;}
+    .flag2 {vertical-align:-20%;}
+    .addition {color: red;}
+    a.ruleanchor {text-decoration: none; color: #E8DA58;}
+    li:target {background: #FAF7DC;}
+    -->
+  </style>
+  
+  
+</head>
+<body>
+      ]]..format_card_list(card)..[[
+</body></html>]] 
+end
+
+function ass(card)
+if card.type == "Spec" or card.type == "Color" then
+  return cardlist(card)
+end
+return [[<html lang="en"><head>
   
 <meta charset="UTF-8">  
   <title>]]..card.name..[[</title>
@@ -415,6 +486,8 @@ function handle_codex(self)
       if card.url == path then
         return ass(card)
       else
+        print(json.encode(card))
+        print("Redirecting to "..card.name.." "..card.url)
         return { redirect_to = self:build_url(card.url) }
       end
     end
@@ -435,6 +508,8 @@ function handle_codex(self)
     if card.url == path then
       return ass(card)
     else
+      print(json.encode(card))
+      print("Redirecting to "..card.name.." "..card.url)
       return { redirect_to = self:build_url(card.url) }
     end
   end
