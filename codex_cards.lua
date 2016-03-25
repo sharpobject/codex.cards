@@ -17,6 +17,7 @@ local all_rulings = json.decode(file_contents("rulings.json"))
 local name_to_rulings = {}
 for _,rulings_sheet in pairs(all_rulings) do
   for _,ruling in pairs(rulings_sheet) do
+    if not ruling.card then print(json.encode(ruling)) end
     if name_to_rulings[ruling.card] == nil then name_to_rulings[ruling.card] = {} end
     local t = name_to_rulings[ruling.card]
     if ruling.ruling then
