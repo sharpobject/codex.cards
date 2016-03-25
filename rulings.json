@@ -561,7 +561,7 @@
         },
         {
             "card": "Trojan Duck",
-            "ruling": "Obliterate never targets units in Codex, so it can work even on units that are untargetable. The ability that deals 4 damage to a building does target the building, which as of this ruling, doesn't matter because nothing has yet been printed that gives buildings resist or the untargetable keyword.",
+            "ruling": "Obliterate never targets units in Codex, so it can work even on units that are untargetable. The ability that deals 4 damage to a building does target the building, so it can't hit Fox's Den School (unless you have a detector) or Hero's Monument, for example.",
             "date": "2016-03-03T08:00:00.000Z",
             "author": "Sirlin"
         },
@@ -1051,7 +1051,7 @@
         },
         {
             "card": "Rich Earth",
-            "ruling": "You still have to put a card from your hand into the worker zone, even though you don't have to pay gold to hire a worker.",
+            "ruling": "You still have to put a card from your hand into the worker zone, even though you don't have to pay gold to hire a worker. And you still can only hire one worker per turn.",
             "date": "2016-03-04T08:00:00.000Z",
             "author": "Sirlin"
         },
@@ -1128,6 +1128,18 @@
             "author": "Sirlin"
         },
         {
+            "card": "Fairie Dragon",
+            "ruling": "Fairie Dragon only changes the \"base\" ATK and health of those units; runes and other effects can add or subtract ATK or health.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Fairie Dragon",
+            "ruling": "Units with feather runes gain flying, but don't lose any of their other abilities.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
             "card": "Dothram Horselord",
             "ruling": "Dothram Horselord himself counts in computing a player's total ATK.",
             "date": "2016-03-04T08:00:00.000Z",
@@ -1135,8 +1147,8 @@
         },
         {
             "card": "Dothram Horselord",
-            "ruling": "***If you steal control of Dothram Horselord with Mind Control...???",
-            "date": "2016-03-04T08:00:00.000Z",
+            "ruling": "If you have control of a Dothram Horselord because Mind Control is attached, Mind Control's effect wins because it's being continuously applied. Effects that happen once (rather than continuously), such as Final Smash stealing control of unit or Community Service giving you control of an opponent's unit, DO get overridden by Dothram Horselord's ability, because newer triggers beat older triggers.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -1228,8 +1240,8 @@
         },
         {
             "card": "Polymorph: Squirrel",
-            "ruling": "Transforming into a Squirrel does not count as a new unit entering play. No \"arrive\" happens here. If the unit had any baggage, such as +1/+1 runes, an ongoing spell such as a Soul Stone or Spirit of the Panda, or damage on it, all of that will still be on it when it Transforms.",
-            "date": "2016-03-04T08:00:00.000Z",
+            "ruling": "Transforming into a Squirrel does not count as a new unit entering play. No \"arrive\" happens here. If the unit had any baggage, such as +1/+1 runes, an ongoing spell such as a Soul Stone or Spirit of the Panda, or damage on it, all of that will still be on it when it Transforms. Though it loses all printed abilities it has and loses all one-time effects that other things might have granted it before the transform, it still benefits from one-time effects that happen to it after the transform and it still benefits from +1/+1 runes that are on it, and attachments such as Spirit of the Panda.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -1284,7 +1296,10 @@
             "card": "Giant Panda"
         },
         {
-            "card": "Artisan Mantis"
+            "card": "Artisan Mantis",
+            "ruling": "If you choose a building with less than 3 damage on it, the Mantis will repair as much as he can. He won't increase the max HP of a building though, he can only remove damage already on it.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Oversized Rhinoceros"
@@ -1317,21 +1332,18 @@
     "Blue": [
         {
             "card": "Building Inspector",
-            "ruling": "If you destroy an opponent's tech building, Building Inspector makes them pay 1 to rebuild it (0 + 1).",
-            "date": "2016-03-01T08:00:00.000Z",
-            "author": "Sirlin"
-        },
-        {
-            "card": "Building Inspector",
-            "ruling": "Add-ons do count as buildings, so if the first building they build is a Tower add-on, its cost is increased by 1.",
-            "date": "2016-03-07T08:00:00.000Z",
+            "ruling": "This effect applies to tech buildings and add-ons as well as building cards. This effect also applies to rebuilding tech buildings (if it's the first thing they build/rebuild in a turn, it will cost 1 instead of 0.)",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
             "card": "Spectral Aven"
         },
         {
-            "card": "Bluecoat Musketeer"
+            "card": "Bluecoat Musketeer",
+            "ruling": "This effect checks what his ATK is after applying all effects and runes. It doesn't just check his printed or \"base\" ATK.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Traffic Director"
@@ -1379,6 +1391,9 @@
             "author": "Sirlin"
         },
         {
+            "ruling": "If an effect changes the \"printed\" values of a card, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel."
+        },
+        {
             "card": "Injunction",
             "ruling": "If you use Injunction on an opponent's Growth tech II building, for example, this will disable any tech II units they control at that moment, even if they are of a different spec. (They might have gained control of an Anarchy tech II unit or something, or cheated in units from other specs with Feral Strike.)",
             "date": "2016-03-07T08:00:00.000Z",
@@ -1424,6 +1439,12 @@
             "author": "Sirlin"
         },
         {
+            "card": "Drill Sergeant",
+            "ruling": "Using a spell or ability to \"put a unit into play\" from your hand does not count as \"playing it from your hand.\"",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
             "card": "Flagstone Spy",
             "ruling": "His ability that steals gold can't steal any against an opponent that doesn't have any gold.",
             "date": "2016-03-07T08:00:00.000Z",
@@ -1439,6 +1460,12 @@
             "card": "Flagstone Garrison",
             "ruling": "Playing a spell from your hand that summons units such as Murkwood Allies or Summon Skeletons does NOT count as \"playing a unit from your hand.\"",
             "date": "2016-03-07T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Flagstone Garrison",
+            "ruling": "Using a spell or ability to \"put a unit into play\" from your hand does not count as \"playing it from your hand.\"",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -1511,6 +1538,18 @@
             "card": "Insurance Agent",
             "ruling": "If Plague Lab adds a second insurance rune to a unit, that doesn't let you collect insurance money twice. The insurance rune itself doesn't actually do anything—it's just a tangible marker and memory aid.",
             "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If you have two Insurance Agents in play insuring the same unit, you can get double the gold and cards when it dies (since their abilities work independently).",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Insurance Agent",
+            "ruling": "If Insurance Agent is insuring a unit, then you make something else a copy of that Insurance Agent, the copy will NOT also be insuring the unit. When you make something a copy of something else, it doesn't arrive so no arrive triggers happen. The copy does not get to put the insurance rune anywhere, and the rest of the copy's ability is looking for where that particular rune went. Because the copy never put a rune anywhere, the copy is not insuring anyting at all.",
+            "date": "2016-03-20T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -1688,9 +1727,9 @@
         },
         {
             "card": "Shadow Blade",
-            "ruling": "If you destroy an Illusion because you targeted it with Shadow Blade, its controller does not discard a card.",
-            "date": "2016-03-02T08:00:00.000Z",
-            "author": "Sirlin"
+            "ruling": "If you destroy an Illusion because you targeted it with Shadow Blade, its controller discards a card.",
+            "date": "2016-03-24T07:00:00.000Z",
+            "author": "sharpo"
         },
         {
             "card": "Metamorphosis",
@@ -1744,7 +1783,16 @@
             "author": "Sirlin"
         },
         {
-            "card": "Banefire Golem"
+            "card": "Banefire Golem",
+            "ruling": "You can sacrifice him for his own effect. If you control no other units, you MUST sacrifice him since the effect isn't optional. You'll still deal the damage.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Terras Q, the Shackled",
+            "ruling": "The Warlock tokens are controlled by the chosen opponent. That opponent can sacrifice them, patrol with them, attack with them, etc.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Terras Q, the Shackled",
@@ -1813,7 +1861,10 @@
             "card": "Cursed Ghoul"
         },
         {
-            "card": "Cursed Crow"
+            "card": "Cursed Crow",
+            "ruling": "It has to damage the base directly to get the effect. Destroying a building and causing its owner to take 2 damage doesn't count.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Abomination",
@@ -1847,7 +1898,7 @@
         },
         {
             "card": "Nether Drain",
-            "ruling": "If you level up another player's hero and an ability that triggers from that requires another player to make a decision on your turn, instead that ability fizzles. For example, if you level up an opposing Necromancy hero to max level on YOUR turn, then its controller doesn't get to search their codex for a unit costing 5 or less.",
+            "ruling": "If you level up another player's hero and an ability that triggers from that requires another player to make a decision on your turn, instead that ability fizzles. For example, if you level up an opposing Necromancy hero to max level on YOUR turn, then its controller doesn't get to search their discard pile for a unit costing 5 or less.",
             "date": "2016-03-02T08:00:00.000Z",
             "author": "Sirlin"
         },
@@ -1885,6 +1936,12 @@
             "card": "Blackhand Resurrector",
             "ruling": "If the hero in question is on cooldown from dying this turn or last turn, you can still summon it with this ability.",
             "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Blackhand Resurrector",
+            "ruling": "If the hero has an ability that triggers at max level, it WILL trigger.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -2005,7 +2062,7 @@
         },
         {
             "card": "Young Lightning Dragon",
-            "ruling": "You know what \"thrice-per-turn\" means. Come on now.",
+            "ruling": "Thrice-per-turn means three times per turn.",
             "date": "2016-03-09T08:00:00.000Z",
             "author": "Sirlin"
         },
@@ -2038,8 +2095,8 @@
         },
         {
             "card": "Hidden Ninja",
-            "ruling": "***If the unit or hero has more than 4 ATK later that turn...?",
-            "date": "2016-03-09T08:00:00.000Z",
+            "ruling": "If the unit or hero has more than 4 ATK later that turn, it keeps stealth.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -2076,7 +2133,10 @@
             "card": "Masked Raccoon"
         },
         {
-            "card": "Fox's Den School"
+            "card": "Fox's Den School",
+            "ruling": "A unit that becomes a Ninja this way stays a Ninja until it leaves play. Even if Fox's Den School leaves play, your unit remains a Ninja.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Jade Fox, Den's Headmistress",
@@ -2107,8 +2167,8 @@
         },
         {
             "card": "Thunderclap",
-            "ruling": "Tokens count as cost 0, so this does work on token units.",
-            "date": "2016-03-09T08:00:00.000Z",
+            "ruling": "Tokens count as cost 0, so this does work on token units unless you somehow have a token that is copying a higher cost unit.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -2121,7 +2181,22 @@
             "card": "Ardra's Boulder"
         },
         {
-            "card": "Doubling Barbarbarian"
+            "card": "Doubling Barbarbarian",
+            "ruling": "His ability DOES trigger when patroling as a squad leader (he gets two armor instead of one), and it does trigger on +1/+1 runes (they give him +2/+2).",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Doubling Barbarbarian",
+            "ruling": "When the effect that raised his ATK, HP, or armor ends, he also loses the extra stats from his effect. For example, Aged Sensei's effect will give him +2 ATK/+2 armor this turn, NOT +1 ATK/+1 armor this turn and +1 ATK /+1 armor permanently.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Doubling Barbarbarian",
+            "ruling": "Healing something removes damage, rather than increases HP, so his ability does NOT trigger on healing.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Whitestar Grappler"
@@ -2133,7 +2208,10 @@
             "card": "Jefferson DeGrey, Ghostly Diplomat"
         },
         {
-            "card": "Morningstar Pass"
+            "card": "Morningstar Pass",
+            "ruling": "If they can't pay 1, they can't attack Morningstar Pass.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Oathkeeper of Kor Mountain",
@@ -2171,7 +2249,10 @@
             "author": "Sirlin"
         },
         {
-            "card": "Hardened Mox"
+            "card": "Hardened Mox",
+            "ruling": "You only have to trash Hardened Mox if you have one or more tech II units in play and/or forecasted. It doesn't care about Tech III units, Tech II buildings or upgrades, or units in Jail/Graveyard.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Battle Suits"
@@ -2234,7 +2315,10 @@
             "author": "Sirlin"
         },
         {
-            "card": "Shimmer Ray"
+            "card": "Shimmer Ray",
+            "ruling": "You can't discard a card DURING your upkeep to save it from dying from fading. You can only use abilities during your own main phase unless they are specifically marked otherwise, such as \"upkeep\" abilities.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Yesterday's Golgort",
@@ -2313,8 +2397,8 @@
         },
         {
             "card": "Temporal Distortion",
-            "ruling": "If you try to return a token unit to your hand, it will be destroyed as it would go into your hand, but the \"if you do\" clause of Temporal Distortion is satisfied. You really can still put a unit from your codex into play. Tokens are tech 0, so this would normally be useless because your codex doesn't have tech 0 cards in it. It is possible to get some use out of this if you have a token that is no longer tech 0 due to a copy effect though. For example, you could use Manufactured Truth to turn one of your tokens into a tech I unit that's in play, then play Temporal Distortion on that token, and you will be able to get a tech I unit from your codex.",
-            "date": "2016-03-11T08:00:00.000Z",
+            "ruling": "Tokens are generally tech 0, so they usually can't be returned to your hand for this effect. However, if you have a token that's copying a tech I or II unit, you CAN choose to return it to your hand for this spell. It will be destroyed as it would go into your hand, but the \"if you do\" clause of Temporal Distortion is satisfied. You really can still put a unit from your codex into play (based on the cost and tech level of the unit that token was copying).",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -2324,6 +2408,12 @@
             "card": "Ready or Not",
             "ruling": "Readying one of your units CAN allow it to attack twice in a turn. (Attack with a unit, which will exhaust it. Play Ready or Not on that unit to ready it, then you can attack with it again.)",
             "date": "2016-03-02T08:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Ready or Not",
+            "ruling": "If a unit has the readiness keyword, using Ready or Not on it won't let you attack twice in a turn with it because readiness specifically says you can't do that.",
+            "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
         {
@@ -2348,7 +2438,16 @@
             "author": "Sirlin"
         },
         {
-            "card": "Chronofixer"
+            "card": "Chronofixer",
+            "ruling": "This prevents opposing heroes from gaining levels by by means. That includes killing another player's hero, and effects like Training Grounds.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Chronofixer",
+            "ruling": "Blackhand Resurrector's ability puts a hero into play a level 1, rather than max level, if an opponent has Chronofixer.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Hyperion"
@@ -2372,7 +2471,46 @@
             "card": "Octavian"
         },
         {
-            "card": "Promise of Payment"
+            "card": "Promise of Payment",
+            "ruling": "You will get gold from your workers before you have to pay the cost. Also, since you as the active player decide in what order your upkeep effects happen, you can collect gold from upkeep effects like Galina Glimmer and Gemscout Owl before you have to pay. HOWEVER, you can't play cards or activate abilities (such as Merfolk Prospector and Rickety Mine) until your Main phase, so they can't help you pay the cost.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "You still have to pay any additional costs of that card as you play it. For example, if your opponent has a Building Inspector, you pay 1 even if Promise of Payment makes the first building you build cost 0.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "Hiring a worker is not playing a card. Building a Tech Building or Add-on isn't playing a card. Using an ability of a card or putting a card into play is not playing a card. Promise of Payment doesn't apply to any of those things.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "You CAN use Promise of Payment to play a unit from Graveyard or to play the top card of your draw pile with Vir's middle ability.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "Be sure to play Promise of Payment JUST before you play the card you want to pay 0 for. If you play another card in between (even with an effect like Cinderblast Dragon's attack effect), you have to apply Promise of Payment's effect to that card instead.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "The gold cost you have to pay during your next upkeep is the printed gold cost on the card. You don't get to apply any effects that would reduce its cost (even Gigadon's effect that's on the card itself).",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
+        },
+        {
+            "card": "Promise of Payment",
+            "ruling": "If for some reason you play Promise of Payment and then don't play any other cards that turn, nothing happens during your next upkeeep.",
+            "date": "2016-03-19T07:00:00.000Z",
+            "author": "Sirlin"
         },
         {
             "card": "Unphase"
@@ -2582,7 +2720,7 @@
         },
         {
             "card": "Sirus Quince",
-            "ruling": "If an effect changes the \"printed\" values of a card, though, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel.",
+            "ruling": "If an effect changes the \"printed\" values of a card, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel.",
             "date": "2016-03-19T07:00:00.000Z",
             "author": "Sirlin"
         },
