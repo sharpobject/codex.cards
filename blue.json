@@ -1,7 +1,7 @@
 [
     {
         "filename": "law_spell_a.jpg",
-        "sirlins_filename": "0010_jurisdiction.jpg",
+        "sirlins_filename": "0011_injunction.jpg",
         "name": "Injunction",
         "starting_zone": "codex",
         "color": "Blue",
@@ -15,7 +15,7 @@
     },
     {
         "filename": "law_spell_b.jpg",
-        "sirlins_filename": "0011_injunction.jpg",
+        "sirlins_filename": "0012_community_service.jpg",
         "name": "Community Service",
         "starting_zone": "codex",
         "color": "Blue",
@@ -29,7 +29,7 @@
     },
     {
         "filename": "law_spell_c.jpg",
-        "sirlins_filename": "0012_community_service.jpg",
+        "sirlins_filename": "0010_jurisdiction.jpg",
         "name": "Jurisdiction",
         "starting_zone": "codex",
         "color": "Blue",

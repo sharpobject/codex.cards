@@ -335,7 +335,8 @@
         },
         {
             "card": "Sparkshot",
-            "ruling": "Sparkshot doesn't [target]."
+            "ruling": "Sparkshot doesn't [target].",
+            "date": "2016-03-27T07:00:00.000Z"
         },
         {
             "card": "Stealth",
@@ -1392,7 +1393,8 @@
         },
         {
             "card": "Manufactured Truth",
-            "ruling": "If an effect changes the \"printed\" values of a card, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel."
+            "ruling": "If an effect changes the \"printed\" values of a card, the new values will be used. This includes Chaos Mirror and transformation effects such as Polymorph: Squirrel.",
+            "date": "2016-03-27T07:00:00.000Z"
         },
         {
             "card": "Injunction",

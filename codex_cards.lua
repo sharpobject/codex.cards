@@ -21,6 +21,7 @@ for _,rulings_sheet in pairs(all_rulings) do
     if name_to_rulings[ruling.card] == nil then name_to_rulings[ruling.card] = {} end
     local t = name_to_rulings[ruling.card]
     if ruling.ruling then
+      assert(type(ruling.date) == "string", ruling.ruling)
       t[#t+1] = ruling
     end
   end

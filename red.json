@@ -245,7 +245,7 @@
         "starting_zone": "codex",
         "color": "Red",
         "spec": "Blood",
-        "type": "Ongoing Ultimate Spell",
+        "type": "Ultimate Ongoing Spell",
         "subtype": "Buff",
         "cost": 2,
         "target_icon": false,
